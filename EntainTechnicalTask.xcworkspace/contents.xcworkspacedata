@@ -10,6 +10,10 @@
       assignedFileDataType = "public.plain-text">
    </FileRef>
    <FileRef
+      location = "group:.swiftlint.yml"
+      assignedFileDataType = "public.yaml">
+   </FileRef>
+   <FileRef
       location = "group:README.md">
    </FileRef>
    <FileRef
