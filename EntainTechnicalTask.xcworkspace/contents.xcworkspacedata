@@ -10,6 +10,9 @@
       assignedFileDataType = "public.plain-text">
    </FileRef>
    <FileRef
+      location = "group:README.md">
+   </FileRef>
+   <FileRef
       location = "group:EntainTechnicalTask.xcodeproj">
    </FileRef>
 </Workspace>
