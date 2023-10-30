@@ -1,5 +1,5 @@
 //
-//  EntainTechnicalTaskApp.swift
+//  ContentView.swift
 //  EntainTechnicalTask
 //
 //  Created by Brett Best on 30/10/2023.
@@ -8,11 +8,11 @@
 
 import SwiftUI
 
-@main
-struct EntainTechnicalTaskApp: App {
-  var body: some Scene {
-    WindowGroup {
-      ContentView()
+struct ContentView: View {
+  var body: some View {
+    VStack {
+      Text("Hello, world!")
     }
+    .padding()
   }
 }
