@@ -1,0 +1,1348 @@
+brettbest@Bretts-MacBook-Pro ~/D/E/EntainTechnicalTask (main)> curl "https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10" --verbose --location
+*   Trying [2606:4700::6812:1832]:443...
+* Connected to api.neds.com.au (2606:4700::6812:1832) port 443 (#0)
+* ALPN: offers h2,http/1.1
+* (304) (OUT), TLS handshake, Client hello (1):
+*  CAfile: /etc/ssl/cert.pem
+*  CApath: none
+* (304) (IN), TLS handshake, Server hello (2):
+* (304) (IN), TLS handshake, Unknown (8):
+* (304) (IN), TLS handshake, Certificate (11):
+* (304) (IN), TLS handshake, CERT verify (15):
+* (304) (IN), TLS handshake, Finished (20):
+* (304) (OUT), TLS handshake, Finished (20):
+* SSL connection using TLSv1.3 / AEAD-CHACHA20-POLY1305-SHA256
+* ALPN: server accepted h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Cloudflare, Inc.; CN=neds.com.au
+*  start date: Feb 25 00:00:00 2023 GMT
+*  expire date: Feb 25 23:59:59 2024 GMT
+*  subjectAltName: host "api.neds.com.au" matched cert's "*.neds.com.au"
+*  issuer: C=US; O=Cloudflare, Inc.; CN=Cloudflare Inc ECC CA-3
+*  SSL certificate verify ok.
+* using HTTP/2
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 1 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=Mb5_kvavcADQpW8CmRyPSuVcTSvJNJyHnitzYnO0NOo-1698647225-0-ATqoRIlvy09EcPIDKCteIWmzpwzJqsgeRu4+C0AzpoOkg3ZlrPGvu1bCZNzjE/jWE08hhoLyGeav3MYyA4LghG8=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e19725ac2529aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 3 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=lAXyG3elWQgR1nqQEENVn6OCG9crhU4hjVCSL.cnrm4-1698647225-0-ATmjF+G6yYfpSHXdCOyS/DasK+GaTnunyKTFCd+VPVa2pFjxsbPKyPZwm+6RO5Q36S8Ysa0hETG9WCYEVf1uUys=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e19725ec9629aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 5 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=pS0YKrs.gq6DynGgpZbGghymiL7A_M5vHTwRx0WGLXA-1698647225-0-AQEQLV7EIz3bfsAHmX3kBTaagtTvQy1mx4G1sOeZl+CpO/Of0nsLr3fPuH6UzwinMvgaj1AOYQj37QBjHuTcY84=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e197261cce29aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 7 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=SjttuVlmea8nHvBhH9Hm3FWIXQN4fHEohZ42.enX6xI-1698647225-0-Ac99fBTQj7trBRUNxmBsJrwiFyi11SOAm9Hx7IuRySN0rntrzQuth4Ekk4EExkPWxo2gkplGeoZGZHQ3DgLLcuU=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e197262d0029aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 9 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=iD2vPxOFiISCATIT9Kc373yzJJUzGhVMMk3SUVSgDEQ-1698647225-0-AShJDdcxy5uDQzKdibva1jnMERPZNUf3igNhm98VoTga9TWc41Mn6ljq7wDFU6c2H4pvZeULNXPqwKmkH8edDSk=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e197265d3529aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 11 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=2.mSne495hCyv.CSeowQGHEqGq2b4FQG9E5p9m3lPkI-1698647225-0-AdMd4Ilv2USipb5G0DnX+Lmr7mvGPxle63EYjQxuYAp5mx7MeyMfAOKSG7+Nw3m2YgjL0tzxky9C9aKKNoZ0h74=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e197267d6329aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 13 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=O4EQ8QYVRVD6.IhPgthGvg4b8atCqoY7LEopKjs3v24-1698647225-0-AaZaAHtw8uBm+uiLCaqvtO5w+5caDalfmMCmpy0pVJIfppEnp284CFOxHUbtltvpfRYHvfHivjdtfI+G8JHxU/w=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e197269d9429aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 15 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=Zab434_ZiwZ7SfJXfw1ZLXiOW92upDG4SNbFAsU8vys-1698647225-0-AQNMHFVvr+OKHiCTo8skPOzEeE/MvGS2ooPebAb2/38fA1rvwCOUno9/et7sTwHOh6hOrxNiakQLBPeQKkTFiDQ=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e19726bdd029aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 17 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=.Sq_doyoNhC1_Zqy_8OXCycTEAv1gjo_I5PmJ1DB_iQ-1698647225-0-AbzIW0zr9Ce/Kje/363umiotzT24hrKt/27PU2WXS2eQ66DbzldJzuPn++gPNUhINwxXAkOZpRWwCjVHbOn0SsI=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e19726ee1f29aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 19 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=977haiZ_CLf_ub5vPflfwP_gn4xikMwVroAkuDidIRw-1698647225-0-AfueZORjrPzV13PtyY4yaCI2lFNGPAq0jxWQ0ftbspX6kESo2wPgDFVzgJZ+ituMndmQl8SKG7bMEWYOiTFAB4o=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e197270e4929aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 21 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=Wp9Ak85AplEGaVV7D7lOvN81G5ETZLE6QnqLc6Gl5z0-1698647225-0-ATr/O8TBC2YvpgayxAuTvGRi75N/cGEsZfCBbYB/U8YAt01vBU3qR1aCl0fFZ4a7aPF9yqdPG+asIqZ9TM92xzw=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e197272e7629aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 23 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=VX0RrPKMK3SUrKoz8mwS2zWwo_QYhPxhMJ8wOfbWu2M-1698647225-0-AQNd+/vr2ZB/aQ2u4ArQqAcm6HQtxnNMcUknSb+G3sAxz/I1SHNOBKUyaDwUNXudfVixwwi0dLvaEYjSuWUJ+ow=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e197274eab29aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 25 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=YEPjcCjc4S0Xml7miXXB80yE.gsL6lSd69vyGwo0QXw-1698647225-0-AajLDOXT9F6V/b3DZSLF1bcd8tqoWGEMVFwI5hWFWsijYAUxU4QK7ZuPcvvWp3VsWSjyRCqnYmP5fNo1Whq3tS8=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e197276ed129aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 27 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=WN3hsYEQGBTqw8eQ_tVU8u2rJGUS0n0pIBLVNpaQawo-1698647225-0-ATSUaF9Y3nKA5EjXXVmHIb40smbHfFAoD5PETJCkJJG3V+/bJsjxLD7OSDoWRhCS3YfKBKTpRVNTXP0/jLTXSs0=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e197278f0e29aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 29 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=s8N9IsVtOs1bxCkSlpV0QWtu3bWKgUV0onLLrCyL4Ws-1698647225-0-AToK545Ik7XTCUgR/1Nl74DWPQ4aW6L+Uar2lfy8DEafEBAuXPsto8NNrBaorySa+TfStU5oq2FIan2nsHWaDsA=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e19727af4429aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 31 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=TGj14W7D7Tnl53OnbnFzHCMwKwXr_a52RdWJaWI3_CQ-1698647225-0-Ab4OF5A+I19URBa9W0SQGEaHbQFLxjICVooqUxdpWaF3qsDNsY7RtmDswPu/9G6FsXMx8OG8J2rgXZ35VGNYRJ4=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e19727cf8229aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 33 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=RoaZ5gkzcM5TI8jElWWf29le5LXdpdaPE09c0xQ2WVo-1698647225-0-ATYa7IV7pScRuPfVXadd9neVj7vJlUf1HVdfogqUbBzXm2uo252WeQfJAWjI+Y1NJuWz2obwxOszXSZQu3qp2+4=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e19727efa629aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 35 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=LZyPKeT3dte6u4VC2NUh.R8rSxG5sY7kCl8SeJeUcjw-1698647225-0-AdheBPEhiIQYYrHtQqYvo66GuBTe6r6BkXln4FbHknRza6J9kKPl+o7NXToURX2zfx6ntk7Ga2kYhcggKWTaPNY=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e197280fcf29aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 37 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=LnxYFWFZ63pN5lwXVRdU8ry2USPU9RccIUebnX2g67A-1698647225-0-AfRFte4dP11Br+DZqRS5m/6GqR19U6DbiWKGuMIh5VJFNltD1qNzGVoGYWzxU0SuB8HJd93gWzhOHnNYCzOT61E=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e197282fff29aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 39 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=4K6IX0gS5MSyz83rMwF9LcBCpRZw1GHwoFyTcYGLVZg-1698647225-0-AXgR6nvvBfBzzy0vPgCQqH9opdwOIbKZ2qdZqeKb8p/Rs3845p0y/R7qgVdiutK4b6Zxfz6jSqCEJemSTtY58jw=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e19728482729aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 41 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=iVDcmgrH5oSckmTodpbKKS72Hgb4Fjt5JquTnUZvoz4-1698647225-0-AUopy3ImkSsCKUnN4e7uH8pDwiw2QdC9mnfLFSyDApEYR/0tCv6K5RfLVjTMgzHatm1/kf6hs8olOOtLteBdn7g=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e19728684c29aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 43 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=6enWRqm5ZT2oPyhZbyZlpsPMb6xZMwhMOttXvEfhfdw-1698647225-0-Abf6gwgbUm/PWAB9fC50hm5DILsezzY9V7P2GbhKA/PgK1ov7FuU+cvA0L87LoBgQSfhxrJplcJAGjtwBJOBRe4=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e19728988c29aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 45 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=jLpmWf9i0AG_GBqMefV1CEd_xX3kis4tT2ETzKrtr8M-1698647225-0-ATQEIMOR8ARcKDHjXN/EqkVpAAJtn7u46IpW28qNzzlkS1TLFXLl1BuAstGBQdvXCYBQ+ws9agArcQue+fI/bIs=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e19728b8c429aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 47 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=7tgs_nnIAvc5GVqkC5Gtrb8M70S9UfB87yK5lyqSpts-1698647225-0-AWZcBpt445cfw0+bs3hoyaFo17n+UrhdiYwpwix1u7uq4gtBItFqy1IAwiMLnefDZ1qcp9yxEpfgM/9KZ5mKbh8=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e19728d8fb29aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 49 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=IJFarSa539VR7m9c0u2ZZI7x0leFiyDONi6Qo9cgFRs-1698647225-0-AT4lnH/fjbxdCLeS3dSwh+s/Qm16ZDypcMergi1fVtDFowHzs5dMq4BU63OyYAK0n7e25NzLFrgVyDz4uoHyPPA=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e19728f92129aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 51 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=Xrmj0qZtxWlcgDvAPkvQNFudgorL3xfSNVU_FNvU0R0-1698647225-0-AWmvmeumVxIjuFGJB7++Yw//W/mkFYpqEowyve/Pj9IOS6zKNM0Oipnr13IkGgEKXNMRpj1jx1jxZXLWysMmS2I=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e19729295029aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 53 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=EAJOFUMFf8945ramZEPl5uHKghhmONT1cCdSP8agpfg-1698647225-0-AfLWEiz5pdkikHfhxUBHYHJU/Y2wGpo8ao0uGM/0DKRVMO7YNA0qvuf0jQf5KoxQhV3eQ+dGcaucvgPbKHfJXX8=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e19729497f29aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 55 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=lhpoI5emwaGVi_p91gSFXS9pKtEV.yEZnqEZ3JpQJ_4-1698647225-0-Acp27bGlZrqyejvhDHHpbafNE0a4j7GQANZl3EtxRtY+j7JwH5SZVBvw162nARt5aeY0Z148LO6JnEOian5Hr0A=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e1972969a729aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 57 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=xYhfGKwM0ibWzJo12WlpRu3svyTNLJA7ka40gDt_XDo-1698647225-0-Abkp5bgckeI8+sv6MBNRaTH0cAGW/ptQfvGT6cJi3tqa7Xy82LzdXhm/TiiJ0RLCVjmbsbfvKNJ7+bCqLr6ZPrI=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e1972989c429aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 59 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=yurNqmODLTBUX7h3j_O7mMYYbQPA2JVsYIWWo0015co-1698647225-0-AUTOWgXmH3n+uCAi/vHm/AkcHHjaZvrZ4t8nJ5SeP2HmHMHpJhrPSqJto0QiKTEvcDSnSINMrBiEESegjo+Xp7g=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e19729a9eb29aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 61 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=t0WriF.CKxw6HGW5JdeZdZDgbgheUf3hl.90HaY6LQ8-1698647225-0-AdAxWnAbFQWEaG6zfVfJrdUiRaT29eE1/I6V7gmVsICQ+LkAxFvEWdRTGRGjNygfSFegkm2T4D1LytOTFj7QCyM=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e19729ca0029aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 63 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=pxjCS8Lcxt_SBIHLhKLb2IH_Irj.O_xnus_901mCm1g-1698647225-0-ASwTjpNV8PWJawftlQD2KZjgbSqlx7HXQtEpF1lR9HjuVVnCH52mvEVTQ7DM9/XNp1HDNplcdjFGLYAYqkRkwy4=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e19729ea2129aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 65 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=WoQGgCfoP0QxWhEoqcoWvrQlJ7UmKKOZAHuunt_EGbE-1698647225-0-AWYSyIx83KPdc5ZIOkZ2yPFGMqezIGOW9tN0SV9VptBmjyf0cmg9qP12oMeR49Gjn4BTBICiNQNnAbNX8FTEHls=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e1972a0a4a29aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 67 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=bRYAXzTVHmOy4WsRg8DWQYb2wG5DikQHGLv3wDKRIgM-1698647225-0-AboO7R9/t5AwmklOmrPVAOwDN+daZlDxj++zL0Y06fCxlHDQGz0+uNeN4iHxK9ebvqCWp3dlGQytAOl8dktScfs=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e1972a2a7129aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 69 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:05 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=68.t9H9j.ep7QUIbUjYx6wnKpqfkJfZ9o7BG9ZVFjHI-1698647225-0-AcqJQtmUmHib+mF15yb9NlkO8OoAEoXQru+VlMWs6ZZt0z6QQ0UPcEJJRaDOMnqiyt7cpsFT1tkf8dhtpyP42MM=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e1972a4ab629aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 71 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:06 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 661
+< set-cookie: __cf_bm=4fMZkYV.us1pbcPQJP.VherxeweOBBDj4bIZzDkl8yQ-1698647225-0-AV/w8Tk4aNlKIIG0WUmj5j+wDXR7AuJnC3/PjIhUzhPCUgENgF9oMVVXTjdrs1t8i4Uk5e0eGWWp7DIxYrUQPDY=; path=/; expires=Mon, 30-Oct-23 06:57:05 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e1972a6b0029aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 73 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:06 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 662
+< set-cookie: __cf_bm=1dCFrEO09mtbvIU8Z_WpVDXz3eMZi_z2A6sjcVW6TIE-1698647226-0-AXIIligY7nu5HoMkC2rWefdd/GZFxVh92jN3ubLSJWaTR320L9ROy4JH8nV5gwvHnMfSBMosHTcXLLlQyh7/81s=; path=/; expires=Mon, 30-Oct-23 06:57:06 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e1972a9b3a29aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 75 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:06 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 662
+< set-cookie: __cf_bm=q4gm.LeJ0fJZ7pkLwXRDxNbel9tKDTtaScvYOs3i0I4-1698647226-0-AU72jSQVC2MsUYM3ZOYr4MJrIO3MABSjVGOdGd+gLgd7pASaoo5BTB9hOM687zVsaIJAJOvgPYeMfNzEVkw8JKo=; path=/; expires=Mon, 30-Oct-23 06:57:06 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e1972abb6e29aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 77 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:06 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 662
+< set-cookie: __cf_bm=sTz512oP1V8fTmvDE2M6Gceh9zC0i.STGlKoxJ3oylQ-1698647226-0-ARt5mYeZFXKsXTIJfoaVBQN5QeBbRqrNe4lofZ5w2TNEiZJtm/3cK0wlcLsJHsOkknQcMCDtUWtmnUkRpCId3M0=; path=/; expires=Mon, 30-Oct-23 06:57:06 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e1972adb9c29aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 79 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:06 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 662
+< set-cookie: __cf_bm=4Le98LXQUmD19yy9DUn2Mspa3jSrHTia0PunP7qGu_A-1698647226-0-AUgD9p+SFiVGymLJLvljSidyq4NRiSNJm82vquptQvMTFU1ZfQhN5qG6BfAabYnWkUZBd72Nks8Cb+4FweIARG8=; path=/; expires=Mon, 30-Oct-23 06:57:06 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e1972afbd729aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 81 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:06 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 662
+< set-cookie: __cf_bm=L1VDaSxIYnDoEcUSIfWgrAVU2W7nR03YhVhL7oFNpCg-1698647226-0-AZ0TWIpx85nikqJNNSNbPyGKgcZaL99mBVKVqCcQo6XEu7ac+bgDBM+/1CyI+JzdjOzPuh5Osrz8grR8vmJhQKk=; path=/; expires=Mon, 30-Oct-23 06:57:06 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e1972b1bf829aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 83 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:06 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 662
+< set-cookie: __cf_bm=.OT2vP7kxaUOEDmshWxpcOJywo_2MCIjd4nM7gOG6t0-1698647226-0-Aak2TExr7lskTFkiux1Gor/rSIeuHomAffWOaveE8FJq5z7gXdvpFETZYSZJGiRbD0f66qqbt1/vYqk8BP0ot9w=; path=/; expires=Mon, 30-Oct-23 06:57:06 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e1972b3c2629aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 85 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:06 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 662
+< set-cookie: __cf_bm=3AZBaLvPN.kp8lA20ort80nRCDsC1eCm8r3mSPv4cyM-1698647226-0-AeDb5nsGh11QVRP1ZYOYoIhJJAUSf8I9FPUPuQq9nJ2xRrTCEv7DqDTao8xkCKuIVKoIh+66ogiVFrI6vkX+fVQ=; path=/; expires=Mon, 30-Oct-23 06:57:06 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e1972b5c5a29aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 87 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:06 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 662
+< set-cookie: __cf_bm=TKi_k0Zd4iO6wiesB7bmj8kAPpaz1AidNx7GdHMFcH4-1698647226-0-AYFEt5gy9WqhNPwkCaI2CqKDfvhGVonZ+PqrCUqWYovrvieN5jJ/bfzXZnoqOgDa5tJUEvWi183nKNNGT9iWEQ0=; path=/; expires=Mon, 30-Oct-23 06:57:06 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e1972b7c7a29aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 89 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:06 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 662
+< set-cookie: __cf_bm=d7mi6Sx_0zKhUBUuwNeJHYnDCW.2iMEqXoFGFp_27so-1698647226-0-AVFuMJgO/FTlJF80XTdjcNf5u9pmDGEO1/sg4hqt01h/ukucR/MSKasxNNWpPjVYGbr6hEjbmI6Gsh4NuIEvvgQ=; path=/; expires=Mon, 30-Oct-23 06:57:06 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e1972b9c9f29aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 91 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:06 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 662
+< set-cookie: __cf_bm=7kGdaw2M1IZJ454t3i.g..FJz7wy5GMIIjlCpbjFSVM-1698647226-0-AdIfp0HF1rJkCt+scy7BG9Qeb/fmzGV99YQh+crzN8dC3Z/G9hTYCe9yuCod/17+wuCqxeDuTN66VsJRP+puf1M=; path=/; expires=Mon, 30-Oct-23 06:57:06 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e1972bbccf29aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 93 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:06 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 662
+< set-cookie: __cf_bm=2ig7y8wvHq2cmjV6p04wkhzM1TcLSli1EqX7n9Gfyj0-1698647226-0-AR6+uUtD6S05VFlB3DCJpZQyJbYPc5sovFzQ8ohyL4OfbsLG37/6owgpmM7yyxpSJukMhacqjYoZKWJ1hQx44WY=; path=/; expires=Mon, 30-Oct-23 06:57:06 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e1972bdd2a29aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 95 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:06 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 662
+< set-cookie: __cf_bm=3kTWD2iVB_i4MuIZOSmC0I8t4N.HQZsckQJljdgvzbQ-1698647226-0-AfY/pc9hV3tVmDEQ1RHw8HbtfAbKowxjfwurjWvtNOMH4G6C6v3kw0au9ALsCq0+qdmmVUBQn3lokgLOLG5CcmQ=; path=/; expires=Mon, 30-Oct-23 06:57:06 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e1972bfd5e29aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 97 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:06 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 662
+< set-cookie: __cf_bm=50qaTWlVwD84YlXUq_5FRLsQ5VSUpr8DgEpPxknbrks-1698647226-0-ARZbjZjd+4W8KsR2BYejOo3T0RqrG8GT3dN1gWtC3MQ6VQmtVgd+CREJ+q8NaFEWVmqZY2MjE2RLKGSv7VBPFvI=; path=/; expires=Mon, 30-Oct-23 06:57:06 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e1972c1da029aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 99 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:06 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 662
+< set-cookie: __cf_bm=jIp.xbjeLHnp5TpBeEGn9Gr0aGGaNO3bbcD.AJdUnQo-1698647226-0-AYhEWJ3rIA5hvM6CMgcJT2WODN28r4wlLK0g381qc6CVE2ErsZMCiPJYJCMTtT4c1toMscs77Ooaq5nsy5SPmAQ=; path=/; expires=Mon, 30-Oct-23 06:57:06 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e1972c4de729aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Issue another request to this URL: 'https://api.neds.com.au/rest/v1/racing/?method=nextraces&count=10'
+* Found bundle for host: 0x6000014b0060 [can multiplex]
+* Re-using existing connection #0 with host api.neds.com.au
+* h2 [:method: GET]
+* h2 [:scheme: https]
+* h2 [:authority: api.neds.com.au]
+* h2 [:path: /rest/v1/racing/?method=nextraces&count=10]
+* h2 [user-agent: curl/8.1.2]
+* h2 [accept: */*]
+* Using Stream ID: 101 (easy handle 0x13b00b000)
+> GET /rest/v1/racing/?method=nextraces&count=10 HTTP/2
+> Host: api.neds.com.au
+> User-Agent: curl/8.1.2
+> Accept: */*
+>
+< HTTP/2 301
+< date: Mon, 30 Oct 2023 06:27:06 GMT
+< content-length: 0
+< location: /rest/v1/racing/?method=nextraces&count=10
+< cf-cache-status: HIT
+< age: 662
+< set-cookie: __cf_bm=2HbU97OSQZxyHJYvuUImfuK5oDqjdYHGCrzqy3uzc9Q-1698647226-0-AYLwnFzkJvS7gNGB4dW8OPGMmR+AZsR6pTG2wgsAQb6318iMp7qPlzeaBGqCrCGfZ93SFIxOfQlw64RMX2zstPc=; path=/; expires=Mon, 30-Oct-23 06:57:06 GMT; domain=.neds.com.au; HttpOnly; Secure; SameSite=None
+< server: cloudflare
+< cf-ray: 81e1972c6e2029aa-MEL
+<
+* Connection #0 to host api.neds.com.au left intact
+* Maximum (50) redirects followed
+curl: (47) Maximum (50) redirects followed
