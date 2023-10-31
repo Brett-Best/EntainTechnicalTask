@@ -23,6 +23,6 @@ final class NextToGoScreenTests: XCTestCase {
     XCTAssertEqual(app.cells.count, 5) // Check that 5 races display
     XCTAssertEqual(app.navigationBars.count, 1) // Check we have a navigation bar
     XCTAssertEqual(app.tabBars.count, 1) // Check we have a tab bar
-    XCTAssertEqual(app.navigationBars.toolbarButtons.count, 1) // Check the filter button is present
+    XCTAssertEqual(app.navigationBars.buttons.firstMatch.label, "Filter") // Check the filter button is present
   }
 }
