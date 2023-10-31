@@ -22,18 +22,9 @@ enum EntainTechnicalTaskApp {
 
 extension EntainTechnicalTaskApp {
   struct App: SwiftUI.App {
-    let racesDataProvider = RaceDataProvider(baseURL: URL(string: "https://api.neds.com.au/rest/v1/").unsafelyUnwrapped)
-
     var body: some Scene {
       WindowGroup {
-        ContentView()
-          .task {
-            do {
-              print(try await racesDataProvider.fetchNextRaces(count: 5))
-            } catch {
-              dump(error)
-            }
-          }
+        MainTabView()
       }
     }
   }

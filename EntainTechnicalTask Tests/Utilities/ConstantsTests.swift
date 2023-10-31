@@ -13,4 +13,8 @@ final class ConstantsTests: XCTestCase {
   func testRunningUnitTestsDetection() throws {
     XCTAssertTrue(kIsRunningUnitTests)
   }
+
+  func testAccessingNedsAPIBaseURLDoesntCrash() {
+    XCTAssertEqual(kNedsAPIBaseURL.absoluteString, "https://api.neds.com.au/rest/v1/")
+  }
 }

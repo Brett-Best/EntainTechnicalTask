@@ -14,7 +14,9 @@ struct AdvertisedStartDTO: Decodable {
   }
 
   let date: Date
+}
 
+extension AdvertisedStartDTO {
   init(from decoder: Decoder) throws {
     let singleValueContainer = try decoder.container(keyedBy: CodingKeys.self)
 

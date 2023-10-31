@@ -1,0 +1,1854 @@
+{
+  "status": 200,
+  "data": {
+    "next_to_go_ids": [
+      "54c1b33f-39ab-4505-80b1-008eb75bd19b",
+      "077e4d18-e3c3-4849-86ea-b734fa2095fe",
+      "a1d7e066-bde6-45ed-8e3c-7610881b46a0",
+      "a34f1281-97e6-4d36-b3c8-0ae6405a5fe1",
+      "4cf196fe-b41d-42f5-9643-cc95be1b1ce2",
+      "fdb5ad02-0623-4abc-bf34-145ccd8e7e6f",
+      "05b74331-a9eb-4d28-bc46-cb40eb01d8d9",
+      "588f5fc1-8bd1-468f-82fb-60623aa2659b",
+      "25e057e3-bdce-49af-84bb-57971a010013",
+      "6157395c-7f3d-40c0-aed9-63944f21569b",
+      "55debab0-fdcb-4739-bdfa-8f3370a30605",
+      "8cd931e1-e63d-462f-ad0c-0a4e712bd4f0",
+      "c779be52-9966-46a5-a497-3d1949f86383",
+      "794260ae-f4e7-45da-a656-ac197d317075",
+      "7fa3b69d-d13d-4479-b3f2-d789f9371ed8",
+      "7dea26b0-4118-4bc4-9285-6b51c99b3936",
+      "f91140b1-1677-4bf7-aa0b-cf92b75f3896",
+      "c75162a5-b9b8-4be8-bb73-b190e556589a",
+      "22e71e20-ca96-4c75-87a6-a7bde8b3d939",
+      "f60438bd-a1f6-4696-9028-d1db2aec7ec4",
+      "e4258a00-9205-4fc7-b0e3-eeb2a0c8081a",
+      "7e7dba8e-39ca-41dd-975c-9f7b78792d4b",
+      "37245972-f52c-47f8-a540-e2a2fd28ee44",
+      "001032ea-ed15-4736-9263-0b2e7bf3b99f",
+      "57bb856c-c1cf-45c3-9d58-e4bef88cffff",
+      "d1cc3542-ce38-4b25-ae32-3e3854d9683b",
+      "d258d719-9141-4a23-b01f-fe68c5ce81df",
+      "99098124-e9a9-4d39-b5de-1d27d70d0249",
+      "d4b3ec53-4f5a-494e-9f87-9f828051dbdf",
+      "b96cc221-f770-47b4-ab85-91b83898acea",
+      "a28131ae-f8de-4770-9355-caf95e99a885",
+      "abaf0e90-4a41-4739-85e2-86e79654fc08",
+      "541aea4b-01eb-4805-929f-56e128b047f8",
+      "09788556-f3c7-4b13-ba64-ff3395098c80",
+      "fe3df00b-9225-4613-96cd-1febdc9bf1d6",
+      "a84e1c64-7618-4e3b-a79c-000c1a263fcb",
+      "aa71ec7b-90e8-4396-afec-e360aa7add45",
+      "ee569ceb-d6fc-45d3-950d-10df24b42f63",
+      "98a64aef-df9b-49f3-bbcc-b80dd1e9f1fd",
+      "9a69a4c6-d33f-4e8a-84ca-0d7054b7d706",
+      "047ba038-916d-49e7-8391-a9f3d677a7b1",
+      "74d1c9a5-a617-4ae0-ad98-7a71e3fb910d",
+      "a6e337da-ed67-4a38-89a0-8ab18064f956",
+      "71440da6-90f4-40bd-9f1b-b2ba60671674",
+      "34d86c22-e8eb-47f8-b43f-b7c52e0d7d04"
+    ],
+    "race_summaries": {
+      "001032ea-ed15-4736-9263-0b2e7bf3b99f": {
+        "race_id": "001032ea-ed15-4736-9263-0b2e7bf3b99f",
+        "race_name": "Greyhounds Make Great Pets",
+        "race_number": 5,
+        "meeting_id": "0d1b3524-2d0f-4586-9551-2945080bca78",
+        "meeting_name": "Ipswich",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1698729540
+        },
+        "race_form": {
+          "distance": 431,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "e59d2021-a879-11e7-99a6-06918c628bb8",
+            "name": "Clear",
+            "short_name": "clear",
+            "icon_uri": "Clear"
+          },
+          "weather_id": "e59d2021-a879-11e7-99a6-06918c628bb8",
+          "race_comment": "BLAZING LANTANA (1) could manage only third at Capalaba last time but turned heads when posting an outstanding 19.73 over 366m at Capalaba three starts ago. Has the ability and looks a key chance again. CATCH A COBRA (6) was out of the placings last time but shapes well for this on his speedy win the start prior, getting around this track over 431m in 25.25. Smart winner two back and looks a key chance on that form. TERRY'S TAXI (4) claimed maiden win two back then finished a 1.75 lengths third last start at this track over 431m (25.53). Returns to the scene of his maiden win. Bold showing expected again. DAIKOKU FLYER (2) is worth another chance despite missing the top-three here most recently.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "BLAZING LANTANA (1) could manage only third at Capalaba last time but turned heads when posting an outstanding 19.73 over 366m at Capalaba three starts ago. Has the ability and looks a key chance again. CATCH A COBRA (6) was out of the placings last time but shapes well for this on his speedy win the start prior, getting around this track over 431m in 25.25. Smart winner two back and looks a key chance on that form. TERRY'S TAXI (4) claimed maiden win two back then finished a 1.75 lengths third last start at this track over 431m (25.53). Returns to the scene of his maiden win. Bold showing expected again. DAIKOKU FLYER (2) is worth another chance despite missing the top-three here most recently."
+        },
+        "venue_id": "a70506ee-3dd5-4741-baa1-cac6160badbc",
+        "venue_name": "Ipswich",
+        "venue_state": "QLD",
+        "venue_country": "AUS"
+      },
+      "047ba038-916d-49e7-8391-a9f3d677a7b1": {
+        "race_id": "047ba038-916d-49e7-8391-a9f3d677a7b1",
+        "race_name": "Locks Constructions Damsels Dash",
+        "race_number": 7,
+        "meeting_id": "c88c61c4-58f4-4463-92e0-bf79f7f3e28e",
+        "meeting_name": "Horsham",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1698731640
+        },
+        "race_form": {
+          "distance": 485,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+            "name": "OCAST",
+            "short_name": "ocast",
+            "icon_uri": "OCAST"
+          },
+          "weather_id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+          "race_comment": "INDY KORIE (1) is a talented type and proved too classy last time to win by 4 lengths at Geelong in a handy 26.24 beating Roxy Ouzo. Winner at her latest appearance in one of the quickest times on the card. Looks the one to beat. MORAINE CHARLI (7) had been in super honest form hitting the frame two times on end before finishing fifth (25.67) at Ballarat last time. Solid record at the distance winning three races. Has clocked a strong 27.23 best time here at this trip. Has ability and can atone. OUR GIRLS SHOUT (4) missed the frame last time at Ballarat but the start prior rocketed around 500m at Bendigo in 27.94. Top win two back and rates a key player again. ZIPPING GIAN (2) can find the frame without surprising.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "INDY KORIE (1) is a talented type and proved too classy last time to win by 4 lengths at Geelong in a handy 26.24 beating Roxy Ouzo. Winner at her latest appearance in one of the quickest times on the card. Looks the one to beat. MORAINE CHARLI (7) had been in super honest form hitting the frame two times on end before finishing fifth (25.67) at Ballarat last time. Solid record at the distance winning three races. Has clocked a strong 27.23 best time here at this trip. Has ability and can atone. OUR GIRLS SHOUT (4) missed the frame last time at Ballarat but the start prior rocketed around 500m at Bendigo in 27.94. Top win two back and rates a key player again. ZIPPING GIAN (2) can find the frame without surprising."
+        },
+        "venue_id": "c60310d3-b964-448c-9bce-aec587a06671",
+        "venue_name": "Horsham",
+        "venue_state": "VIC",
+        "venue_country": "AUS"
+      },
+      "05b74331-a9eb-4d28-bc46-cb40eb01d8d9": {
+        "race_id": "05b74331-a9eb-4d28-bc46-cb40eb01d8d9",
+        "race_name": "Tle Electrical Wollongong",
+        "race_number": 4,
+        "meeting_id": "09737591-bb0e-48d8-bff2-fa3253773218",
+        "meeting_name": "Bulli",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1698727740
+        },
+        "race_form": {
+          "distance": 340,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "DANIKA VELLA (7) caught the eye with a fast early split last time and setting up a 4 length win at this track over 340m in 19.13, making it two wins on end. Good beginner but will need a little luck early crossing from an outside draw. Ideally placed to take this out. PURIFY VIRTUOSO (1) has mixed form recently, finishing sixth (20.02) in a Grade 4/5 at this track latest but did run well two back when in the frame. Can turn it around this time. FEDERAL PRINCE (3) filled a minor placing last start at this track behind DANIKA VELLA (19.40) in a Grade 4/5. Has the early speed to land on the pace and can stick on. Winning chance. LIGHTNING ROCKET (2) can return to form after missing the top-three at this circuit last time out.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Bulli\",\"state\":\"NSW\",\"country\":\"AUS\",\"number\":4,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "DANIKA VELLA (7) caught the eye with a fast early split last time and setting up a 4 length win at this track over 340m in 19.13, making it two wins on end. Good beginner but will need a little luck early crossing from an outside draw. Ideally placed to take this out. PURIFY VIRTUOSO (1) has mixed form recently, finishing sixth (20.02) in a Grade 4/5 at this track latest but did run well two back when in the frame. Can turn it around this time. FEDERAL PRINCE (3) filled a minor placing last start at this track behind DANIKA VELLA (19.40) in a Grade 4/5. Has the early speed to land on the pace and can stick on. Winning chance. LIGHTNING ROCKET (2) can return to form after missing the top-three at this circuit last time out."
+        },
+        "venue_id": "90634502-8b99-4933-a80e-0a4bfa959ff7",
+        "venue_name": "Bulli",
+        "venue_state": "NSW",
+        "venue_country": "AUS"
+      },
+      "077e4d18-e3c3-4849-86ea-b734fa2095fe": {
+        "race_id": "077e4d18-e3c3-4849-86ea-b734fa2095fe",
+        "race_name": "Race 4 - 1500",
+        "race_number": 4,
+        "meeting_id": "c95a6aa7-f0e7-45c3-9cff-27638ac0b51b",
+        "meeting_name": "Kanazawa",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1698727200
+        },
+        "race_form": {
+          "distance": 1500,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "race_comment": "RAISE ME UP (7) is back from a break of four-and-a-half months. Raced below par at his only appearance last prep when sixth over 1500m at Nagoya. Has switched to the Masayuki Nakagawa yard over the break. Capable of playing a major role. MARBLE MIMI (6) is back after a break of 12 weeks. Started the last campaign impressively when in the placings over 1500m at this track. Has found a suitable race. ATTACK TIGER (4) finished out of the money two starts back then was beaten 8 lengths when seventh over 1400m at this track two weeks ago. Nicely placed to take this out. DON'T CRY BABY (10) was never really in the hunt last time, drifting back early and winding up 13 lengths from the winner in tenth over 1400m at this track. Looks close to a win and worth including.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Kanazawa\",\"state\":\"JPN\",\"country\":\"JPN\",\"number\":4,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "RAISE ME UP (7) is back from a break of four-and-a-half months. Raced below par at his only appearance last prep when sixth over 1500m at Nagoya. Has switched to the Masayuki Nakagawa yard over the break. Capable of playing a major role. MARBLE MIMI (6) is back after a break of 12 weeks. Started the last campaign impressively when in the placings over 1500m at this track. Has found a suitable race. ATTACK TIGER (4) finished out of the money two starts back then was beaten 8 lengths when seventh over 1400m at this track two weeks ago. Nicely placed to take this out. DON'T CRY BABY (10) was never really in the hunt last time, drifting back early and winding up 13 lengths from the winner in tenth over 1400m at this track. Looks close to a win and worth including."
+        },
+        "venue_id": "0d9871b3-0928-4574-9234-e36c444184ad",
+        "venue_name": "Kanazawa",
+        "venue_state": "JPN",
+        "venue_country": "JPN"
+      },
+      "09788556-f3c7-4b13-ba64-ff3395098c80": {
+        "race_id": "09788556-f3c7-4b13-ba64-ff3395098c80",
+        "race_name": "Farewell Errol Marschke 5Th Grade H",
+        "race_number": 6,
+        "meeting_id": "0d1b3524-2d0f-4586-9551-2945080bca78",
+        "meeting_name": "Ipswich",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1698730740
+        },
+        "race_form": {
+          "distance": 520,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
+            "name": "Fine",
+            "short_name": "fine",
+            "icon_uri": "Fine"
+          },
+          "weather_id": "01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
+          "race_comment": "I'M OLD SCHOOL (3) has a strong record this journey here with two wins and a minor from four starts. Missed the frame latest (31.21) when fourth over 520m at this track in a OPEN. Expected to be in the finish. CLEAR TO PASS (6) showed blistering pace early and gave a sight when in the minors, beaten 4 lengths over 520m this track in 30.83. Comes through a solid form race last start. Must be included in calculations. SPEEDY MINT (2) turned in a plain performance last time when sixth at Albion Park over 520m behind Inconspicuous (31.05) in a Grade 5. Has a strong record out of this box with two wins and a minor placing from three starts. Cannot be underestimated. FLAMING GALAH (1) warrants respect following a recent placing in a fast run.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "I'M OLD SCHOOL (3) has a strong record this journey here with two wins and a minor from four starts. Missed the frame latest (31.21) when fourth over 520m at this track in a OPEN. Expected to be in the finish. CLEAR TO PASS (6) showed blistering pace early and gave a sight when in the minors, beaten 4 lengths over 520m this track in 30.83. Comes through a solid form race last start. Must be included in calculations. SPEEDY MINT (2) turned in a plain performance last time when sixth at Albion Park over 520m behind Inconspicuous (31.05) in a Grade 5. Has a strong record out of this box with two wins and a minor placing from three starts. Cannot be underestimated. FLAMING GALAH (1) warrants respect following a recent placing in a fast run."
+        },
+        "venue_id": "a70506ee-3dd5-4741-baa1-cac6160badbc",
+        "venue_name": "Ipswich",
+        "venue_state": "QLD",
+        "venue_country": "AUS"
+      },
+      "22e71e20-ca96-4c75-87a6-a7bde8b3d939": {
+        "race_id": "22e71e20-ca96-4c75-87a6-a7bde8b3d939",
+        "race_name": "Viatek",
+        "race_number": 3,
+        "meeting_id": "6c8daa85-1ad8-4395-979c-4a71a33b975e",
+        "meeting_name": "Warragul",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1698729120
+        },
+        "race_form": {
+          "distance": 400,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "06ee9afc-025e-11ec-a4cc-4a1fbbf2f065",
+            "name": "SHWRY",
+            "short_name": "shwry",
+            "icon_uri": "SHWRY"
+          },
+          "weather_id": "06ee9afc-025e-11ec-a4cc-4a1fbbf2f065",
+          "race_comment": "TINKER GOOSE (7) shapes well for this after winning last start over the 390m at Ballarat in a flying 22.12. In form and can measure up again. BRING YOUR BEST (3) comes off a big run when finishing second in a sharp 22.23 at Traralgon over 395m. Has the ability and can measure up. FIRE FEATHER (1) jumps from box 1 again after finishing second (20.50) last time at Traralgon over 350m. Has the ability and can measure up. GAS MAN (8) finished in the placings last start and deserves some thought.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "TINKER GOOSE (7) shapes well for this after winning last start over the 390m at Ballarat in a flying 22.12. In form and can measure up again. BRING YOUR BEST (3) comes off a big run when finishing second in a sharp 22.23 at Traralgon over 395m. Has the ability and can measure up. FIRE FEATHER (1) jumps from box 1 again after finishing second (20.50) last time at Traralgon over 350m. Has the ability and can measure up. GAS MAN (8) finished in the placings last start and deserves some thought."
+        },
+        "venue_id": "d0acc1ca-3548-4719-9145-a892a1e6e1c0",
+        "venue_name": "Warragul",
+        "venue_state": "VIC",
+        "venue_country": "AUS"
+      },
+      "25e057e3-bdce-49af-84bb-57971a010013": {
+        "race_id": "25e057e3-bdce-49af-84bb-57971a010013",
+        "race_name": "Dreamchasersfestival.Com.Au",
+        "race_number": 2,
+        "meeting_id": "6c8daa85-1ad8-4395-979c-4a71a33b975e",
+        "meeting_name": "Warragul",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1698727920
+        },
+        "race_form": {
+          "distance": 400,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "06ee9afc-025e-11ec-a4cc-4a1fbbf2f065",
+            "name": "SHWRY",
+            "short_name": "shwry",
+            "icon_uri": "SHWRY"
+          },
+          "weather_id": "06ee9afc-025e-11ec-a4cc-4a1fbbf2f065",
+          "race_comment": "BANJO ONE STRING (1) missed the frame last time when fourth (22.48) at Traralgon but prior to that had two placings in a row. Strong form has emerged from his last run. Has claims if he runs up to expectations. GREMLIN (2) broke through for his maiden success last time out at this track over 400m (22.65). The form out of last run is most impressive. Expecting another bold showing. PROMISES TO BE (6) missed the frame last time but had been racing well prior to that, winning a Maiden three back before a placing at this track the following run. Has the ability and looks a key chance here. MRS. ESHAY (8) is last start winner who looks one of the chances.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "BANJO ONE STRING (1) missed the frame last time when fourth (22.48) at Traralgon but prior to that had two placings in a row. Strong form has emerged from his last run. Has claims if he runs up to expectations. GREMLIN (2) broke through for his maiden success last time out at this track over 400m (22.65). The form out of last run is most impressive. Expecting another bold showing. PROMISES TO BE (6) missed the frame last time but had been racing well prior to that, winning a Maiden three back before a placing at this track the following run. Has the ability and looks a key chance here. MRS. ESHAY (8) is last start winner who looks one of the chances."
+        },
+        "venue_id": "d0acc1ca-3548-4719-9145-a892a1e6e1c0",
+        "venue_name": "Warragul",
+        "venue_state": "VIC",
+        "venue_country": "AUS"
+      },
+      "34d86c22-e8eb-47f8-b43f-b7c52e0d7d04": {
+        "race_id": "34d86c22-e8eb-47f8-b43f-b7c52e0d7d04",
+        "race_name": "Wards Accounting Group Pace",
+        "race_number": 7,
+        "meeting_id": "65805f52-7583-41d5-993a-2d97a764f365",
+        "meeting_name": "Menangle",
+        "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+        "advertised_start": {
+          "seconds": 1698732180
+        },
+        "race_form": {
+          "distance": 1609,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "1db9cab0-b747-11ea-80cf-6a390f79827e",
+            "name": "Fast",
+            "short_name": "fast"
+          },
+          "track_condition_id": "1db9cab0-b747-11ea-80cf-6a390f79827e",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "MO SZYSLAK (5) returns form Victoria where he was fourth in a higher-graded race at Melton in the latest appearance. Had this same barrier when he scored in this class at this circuit and distance three back. History can repeat. RIVEERED (6) produced a good effort at his latest outing to get home by a neck at this circuit and distance. Primary contender in this comparable race. Group 2 placegetter RICKOSHAY (8) resumes after six months but races well fresh and has been readied with two trials. MAGIC MATTEO (2) is going well, placing last time on the back of a win here. Has drawn to advantage and should give backers a great sight.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Menangle\",\"state\":\"NSW\",\"country\":\"AUS\",\"number\":7,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "MO SZYSLAK (5) returns form Victoria where he was fourth in a higher-graded race at Melton in the latest appearance. Had this same barrier when he scored in this class at this circuit and distance three back. History can repeat. RIVEERED (6) produced a good effort at his latest outing to get home by a neck at this circuit and distance. Primary contender in this comparable race. Group 2 placegetter RICKOSHAY (8) resumes after six months but races well fresh and has been readied with two trials. MAGIC MATTEO (2) is going well, placing last time on the back of a win here. Has drawn to advantage and should give backers a great sight."
+        },
+        "venue_id": "3c765f4e-4517-44ad-b83c-7cdc41cbf9a3",
+        "venue_name": "Menangle",
+        "venue_state": "NSW",
+        "venue_country": "AUS"
+      },
+      "37245972-f52c-47f8-a540-e2a2fd28ee44": {
+        "race_id": "37245972-f52c-47f8-a540-e2a2fd28ee44",
+        "race_name": "2Nd Half Daily Double/Quiniela/Exacta/Superfecta/Straight Bet Gracias Por Su",
+        "race_number": 10,
+        "meeting_id": "968da466-023d-4a7e-8758-b502d36a1656",
+        "meeting_name": "Caliente",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1698729540
+        },
+        "race_form": {
+          "distance": 499,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "race_comment": "WW MAMA JAMA (4) boasts strong form at this distance having won three times from five starts. Was out of placings last time (31.45) in a Class A, finishing fifth and beaten 6 lengths. Has the ability and should feature. GONZ CALAFIA (1) finished a head second last start in a solid 30.79. Bold showing expected again. WW MAY QUEEN (2) used the rails draw to advantage to get home last time and distance (30.99) after forging to the front and leading throughout, scoring by one length. Expected to feature again. ARROYO DONNER (5) has ability and can feature with the right run after missing a cheque here most recently.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Caliente\",\"state\":\"BC\",\"country\":\"MEX\",\"number\":10,\"race_name\":\"2Nd Half Daily Double/Quiniela/Exacta/Superfecta/Straight Bet Gracias Por Su\",\"time\":\"2023-10-31T05:19:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "WW MAMA JAMA (4) boasts strong form at this distance having won three times from five starts. Was out of placings last time (31.45) in a Class A, finishing fifth and beaten 6 lengths. Has the ability and should feature. GONZ CALAFIA (1) finished a head second last start in a solid 30.79. Bold showing expected again. WW MAY QUEEN (2) used the rails draw to advantage to get home last time and distance (30.99) after forging to the front and leading throughout, scoring by one length. Expected to feature again. ARROYO DONNER (5) has ability and can feature with the right run after missing a cheque here most recently."
+        },
+        "venue_id": "7e900a49-ee05-4feb-9a52-5d3a0db47352",
+        "venue_name": "Caliente",
+        "venue_state": "BC",
+        "venue_country": "MEX"
+      },
+      "4cf196fe-b41d-42f5-9643-cc95be1b1ce2": {
+        "race_id": "4cf196fe-b41d-42f5-9643-cc95be1b1ce2",
+        "race_name": "Sunkist Pace",
+        "race_number": 5,
+        "meeting_id": "65805f52-7583-41d5-993a-2d97a764f365",
+        "meeting_name": "Menangle",
+        "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+        "advertised_start": {
+          "seconds": 1698727620
+        },
+        "race_form": {
+          "distance": 1609,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "1db9cab0-b747-11ea-80cf-6a390f79827e",
+            "name": "Fast",
+            "short_name": "fast"
+          },
+          "track_condition_id": "1db9cab0-b747-11ea-80cf-6a390f79827e",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "ULTIMATE BIRD (8) is a newcomer to the Ellul yard from NZ. Has not raced for ten weeks but looks forward enough for this after winning a recent trial. May need a bit of luck negotiating a very wide starting position but can make an immediate impact. EVE CROCKER (2) drops in grade after taking Breeders Challenge races and did manage a placing here three back. She is drawn to play a role. JILLIBY DINGO (10) was checked and broke last time but has trialled well since so can atone. SOME CHEVRON (3) is next best and gets every chance from a favourable draw.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Menangle\",\"state\":\"NSW\",\"country\":\"AUS\",\"number\":5,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "ULTIMATE BIRD (8) is a newcomer to the Ellul yard from NZ. Has not raced for ten weeks but looks forward enough for this after winning a recent trial. May need a bit of luck negotiating a very wide starting position but can make an immediate impact. EVE CROCKER (2) drops in grade after taking Breeders Challenge races and did manage a placing here three back. She is drawn to play a role. JILLIBY DINGO (10) was checked and broke last time but has trialled well since so can atone. SOME CHEVRON (3) is next best and gets every chance from a favourable draw."
+        },
+        "venue_id": "3c765f4e-4517-44ad-b83c-7cdc41cbf9a3",
+        "venue_name": "Menangle",
+        "venue_state": "NSW",
+        "venue_country": "AUS"
+      },
+      "541aea4b-01eb-4805-929f-56e128b047f8": {
+        "race_id": "541aea4b-01eb-4805-929f-56e128b047f8",
+        "race_name": "On-Site Engineering",
+        "race_number": 6,
+        "meeting_id": "c88c61c4-58f4-4463-92e0-bf79f7f3e28e",
+        "meeting_name": "Horsham",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1698730560
+        },
+        "race_form": {
+          "distance": 485,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+            "name": "OCAST",
+            "short_name": "ocast",
+            "icon_uri": "OCAST"
+          },
+          "weather_id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+          "race_comment": "IMPRESS BROWNING (7) was a swift 25.17 winner of a Grade 5 at Ballarat last start. In form and looks the one to beat again. NAPIER BALE (1) tends to take a while to wind up, running on to score two back before spotting a start latest and finishing on strongly into third (25.01) in a Grade 5 at Sale. Solid record at the distance winning six races. Solid formlines coming through his last run. Will give a great sight again. BISMUTH (3) missed the frame last time at Bendigo but the start prior rocketed around 410m at this track in 23.09. Has the ability and can find winning form again. MIDNIGHT MARILYN (2) can run a bold race on best form.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "IMPRESS BROWNING (7) was a swift 25.17 winner of a Grade 5 at Ballarat last start. In form and looks the one to beat again. NAPIER BALE (1) tends to take a while to wind up, running on to score two back before spotting a start latest and finishing on strongly into third (25.01) in a Grade 5 at Sale. Solid record at the distance winning six races. Solid formlines coming through his last run. Will give a great sight again. BISMUTH (3) missed the frame last time at Bendigo but the start prior rocketed around 410m at this track in 23.09. Has the ability and can find winning form again. MIDNIGHT MARILYN (2) can run a bold race on best form."
+        },
+        "venue_id": "c60310d3-b964-448c-9bce-aec587a06671",
+        "venue_name": "Horsham",
+        "venue_state": "VIC",
+        "venue_country": "AUS"
+      },
+      "54c1b33f-39ab-4505-80b1-008eb75bd19b": {
+        "race_id": "54c1b33f-39ab-4505-80b1-008eb75bd19b",
+        "race_name": "Book A Christmas Party Marquee Mdn Plate",
+        "race_number": 5,
+        "meeting_id": "fda72298-9652-4671-80c0-6868faacb0b5",
+        "meeting_name": "Grafton",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1698727200
+        },
+        "race_form": {
+          "distance": 1400,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "11d7e662-487a-11ea-9d54-4689356d4521",
+            "name": "Good4",
+            "short_name": "good4"
+          },
+          "track_condition_id": "11d7e662-487a-11ea-9d54-4689356d4521",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "KIMMELA (14) even return at second prep when a plugging fifth over 1280m at Muswellbrook on October 2. Extra trip suits and finds a fairly weak maiden. Go close. BELLABATOOTA (4) had no luck from the wide gate at latest when seventh over 1250m at Taree on October 20. Go on sound effort two back when assessing her chances.  CHANGE THE DATE (12) holding form well after finishing runner up at three of his last four starts. Gets the right run again today and on the quick back-up with the claim. Genuine top-three contender. HARD TRUTH (7) improving with racing and close to a win. Put together back-to-back placings over 1300m at Armidale at her last two runs and gets every chance here from the inside gate.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "KIMMELA (14) even return at second prep when a plugging fifth over 1280m at Muswellbrook on October 2. Extra trip suits and finds a fairly weak maiden. Go close. BELLABATOOTA (4) had no luck from the wide gate at latest when seventh over 1250m at Taree on October 20. Go on sound effort two back when assessing her chances.  CHANGE THE DATE (12) holding form well after finishing runner up at three of his last four starts. Gets the right run again today and on the quick back-up with the claim. Genuine top-three contender. HARD TRUTH (7) improving with racing and close to a win. Put together back-to-back placings over 1300m at Armidale at her last two runs and gets every chance here from the inside gate."
+        },
+        "venue_id": "d5f55ab4-eac1-4407-b25b-a4d8a7e04f21",
+        "venue_name": "Grafton",
+        "venue_state": "NSW",
+        "venue_country": "AUS"
+      },
+      "55debab0-fdcb-4739-bdfa-8f3370a30605": {
+        "race_id": "55debab0-fdcb-4739-bdfa-8f3370a30605",
+        "race_name": "Chs Group (2-3 Wins)",
+        "race_number": 4,
+        "meeting_id": "c88c61c4-58f4-4463-92e0-bf79f7f3e28e",
+        "meeting_name": "Horsham",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1698728220
+        },
+        "race_form": {
+          "distance": 410,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+            "name": "OCAST",
+            "short_name": "ocast",
+            "icon_uri": "OCAST"
+          },
+          "weather_id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+          "race_comment": "LAW BREAKER (2) drew the inside and won last time at Geelong over 400m (22.58) after charging straight to the lead, scoring by 2.5 lengths. Looks the one to beat. BLACK BOW (1) started big odds last time where she hit the ground running and was never headed, leading throughout to win by half a length over 400, at Geelong (22.85). Ran one of the fastest times on the program in her latest win. Should feature again. MELINA VELLA (6) missed the frame latest when eighth at Shepparton (22.68) but scored three back at Shepparton (22.01). Has a solid record over this journey. Has won two of three starts from this draw. Better than the latest run and deserves another chance. TESS CABANG (8) will have admirers after surprising many with a placing last time out.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "LAW BREAKER (2) drew the inside and won last time at Geelong over 400m (22.58) after charging straight to the lead, scoring by 2.5 lengths. Looks the one to beat. BLACK BOW (1) started big odds last time where she hit the ground running and was never headed, leading throughout to win by half a length over 400, at Geelong (22.85). Ran one of the fastest times on the program in her latest win. Should feature again. MELINA VELLA (6) missed the frame latest when eighth at Shepparton (22.68) but scored three back at Shepparton (22.01). Has a solid record over this journey. Has won two of three starts from this draw. Better than the latest run and deserves another chance. TESS CABANG (8) will have admirers after surprising many with a placing last time out."
+        },
+        "venue_id": "c60310d3-b964-448c-9bce-aec587a06671",
+        "venue_name": "Horsham",
+        "venue_state": "VIC",
+        "venue_country": "AUS"
+      },
+      "57bb856c-c1cf-45c3-9d58-e4bef88cffff": {
+        "race_id": "57bb856c-c1cf-45c3-9d58-e4bef88cffff",
+        "race_name": "Garrards Horse And Hound Pace",
+        "race_number": 6,
+        "meeting_id": "65805f52-7583-41d5-993a-2d97a764f365",
+        "meeting_name": "Menangle",
+        "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+        "advertised_start": {
+          "seconds": 1698729720
+        },
+        "race_form": {
+          "distance": 1609,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "1db9cab0-b747-11ea-80cf-6a390f79827e",
+            "name": "Fast",
+            "short_name": "fast"
+          },
+          "track_condition_id": "1db9cab0-b747-11ea-80cf-6a390f79827e",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "CAPTAIN RITCHIE (10) the drop back in grade from the Breeders Challenge series when he sat parked but scored by 2.2 metres at this circuit and distance last week. Tactics will be crucial from this wide draw but with even luck can make it consecutive wins. DOUBLE DOWN (1) left NZ following an Addington win and started a hot favourite at her local debut but galloped out. Gets the ace draw and is worth another chance. THEE OLD BOMB (9) was out of the money last start but was racing well before that including a win three back. Respect. JAKCAM FLYER (2) gets every chance from a favourable draw.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Menangle\",\"state\":\"NSW\",\"country\":\"AUS\",\"number\":6,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "CAPTAIN RITCHIE (10) the drop back in grade from the Breeders Challenge series when he sat parked but scored by 2.2 metres at this circuit and distance last week. Tactics will be crucial from this wide draw but with even luck can make it consecutive wins. DOUBLE DOWN (1) left NZ following an Addington win and started a hot favourite at her local debut but galloped out. Gets the ace draw and is worth another chance. THEE OLD BOMB (9) was out of the money last start but was racing well before that including a win three back. Respect. JAKCAM FLYER (2) gets every chance from a favourable draw."
+        },
+        "venue_id": "3c765f4e-4517-44ad-b83c-7cdc41cbf9a3",
+        "venue_name": "Menangle",
+        "venue_state": "NSW",
+        "venue_country": "AUS"
+      },
+      "588f5fc1-8bd1-468f-82fb-60623aa2659b": {
+        "race_id": "588f5fc1-8bd1-468f-82fb-60623aa2659b",
+        "race_name": "Race 6 - 1500",
+        "race_number": 6,
+        "meeting_id": "f5404a7f-80f8-4cd2-9660-0cf52b55fb19",
+        "meeting_name": "Nagoya",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1698727800
+        },
+        "race_form": {
+          "distance": 1500,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "race_comment": "SMART LAURA (3) turned in a sound effort last time but found one better at this track over 1500m, beaten a neck. That run should have her rock-hard fit now. Nice alley and is sure to run well. OCEA JARDINE (10) was out of the money two runs back then again missed the frame last start when he settled well back over 1500m at this track, beaten 5 lengths into eighth. Finds a nice race and can figure in the finish. ESSENTIALITY (8) did her best work late to finish third at big odds at her latest appearance at this track over 1500m. Backmarker who keeps coming. Watch for a big run. CRISTAL D'AMOUR (12) finished 8 lengths away in tenth at her last appearance over 1500m at this track on October 16. This looks a nice race so expect her to finish closer.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Nagoya\",\"state\":\"JPN\",\"country\":\"JPN\",\"number\":6,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "SMART LAURA (3) turned in a sound effort last time but found one better at this track over 1500m, beaten a neck. That run should have her rock-hard fit now. Nice alley and is sure to run well. OCEA JARDINE (10) was out of the money two runs back then again missed the frame last start when he settled well back over 1500m at this track, beaten 5 lengths into eighth. Finds a nice race and can figure in the finish. ESSENTIALITY (8) did her best work late to finish third at big odds at her latest appearance at this track over 1500m. Backmarker who keeps coming. Watch for a big run. CRISTAL D'AMOUR (12) finished 8 lengths away in tenth at her last appearance over 1500m at this track on October 16. This looks a nice race so expect her to finish closer."
+        },
+        "venue_id": "0218fe84-9144-4c28-81ca-9b8647007d56",
+        "venue_name": "Nagoya",
+        "venue_state": "JPN",
+        "venue_country": "JPN"
+      },
+      "6157395c-7f3d-40c0-aed9-63944f21569b": {
+        "race_id": "6157395c-7f3d-40c0-aed9-63944f21569b",
+        "race_name": "Ladbrokes Odds Surge Mdn Hcp",
+        "race_number": 3,
+        "meeting_id": "406d7900-6a3e-4b9f-82b2-aff32a9adda7",
+        "meeting_name": "Kilcoy",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1698728100
+        },
+        "race_form": {
+          "distance": 1900,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "11d7e662-487a-11ea-9d54-4689356d4521",
+            "name": "Good4",
+            "short_name": "good4"
+          },
+          "track_condition_id": "11d7e662-487a-11ea-9d54-4689356d4521",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "LICENCE TO THRILL (6) is yet to break through in 19 runs but put the writing on the wall when he finished fourth after being in the firing line on the corner at his last appearance over 2210m at Ipswich. This offers him a great chance of breaking through. GOLDEN KINGDOM (2) placed on debut at Toowoomba then stepped up to this trip and boxed on when midfield last time. Has more upside than many of these. CARDIATIC (1) worked home to finish second last time out over 1540m at Gold Coast Poly. Must be included up in trip. WHEN DOVES FLY (8) can feature with the aid of the inside draw.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Kilcoy\",\"state\":\"QLD\",\"country\":\"AUS\",\"number\":3,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "LICENCE TO THRILL (6) is yet to break through in 19 runs but put the writing on the wall when he finished fourth after being in the firing line on the corner at his last appearance over 2210m at Ipswich. This offers him a great chance of breaking through. GOLDEN KINGDOM (2) placed on debut at Toowoomba then stepped up to this trip and boxed on when midfield last time. Has more upside than many of these. CARDIATIC (1) worked home to finish second last time out over 1540m at Gold Coast Poly. Must be included up in trip. WHEN DOVES FLY (8) can feature with the aid of the inside draw."
+        },
+        "venue_id": "fd3a7fd8-a017-460c-a649-2b05c9426c61",
+        "venue_name": "Kilcoy",
+        "venue_state": "QLD",
+        "venue_country": "AUS"
+      },
+      "71440da6-90f4-40bd-9f1b-b2ba60671674": {
+        "race_id": "71440da6-90f4-40bd-9f1b-b2ba60671674",
+        "race_name": "Swan Hill Kia (Bm58)",
+        "race_number": 8,
+        "meeting_id": "6897bb47-fcaf-41e8-94ba-026a1a8b1e97",
+        "meeting_name": "Swan Hill",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1698732000
+        },
+        "race_form": {
+          "distance": 1300,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "908a410f-ab10-11e7-85e3-0641c90711b8",
+            "name": "Good3",
+            "short_name": "good3"
+          },
+          "track_condition_id": "908a410f-ab10-11e7-85e3-0641c90711b8",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "WAS YODELLING (7) is a leader will be better third up off decent efforts in better grade. Well-placed and Fry sticks. He will be tough to peg back. VIENNA VIXEN (4) came hard and impressed winning this grade at Moe and then didn't finish it off at Geelong in a 64 at $4. Keeps the handy 3kg claim but has a wide gate to overcome. In the top barn and is a danger regardless hitting this at peak. MISS CHEVIOTS (1) peaks and the local has been racing well at this track. Led beaten 1.5L the latest at this trip and is in the mix. Stablemate SHOW ME CHAMPAGNE (5) gets in well with the 2kg claim and should be better back to a sprint. Goes into the trifectas/first fours at a price.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Swan Hill\",\"state\":\"VIC\",\"country\":\"AUS\",\"number\":8,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "WAS YODELLING (7) is a leader will be better third up off decent efforts in better grade. Well-placed and Fry sticks. He will be tough to peg back. VIENNA VIXEN (4) came hard and impressed winning this grade at Moe and then didn't finish it off at Geelong in a 64 at $4. Keeps the handy 3kg claim but has a wide gate to overcome. In the top barn and is a danger regardless hitting this at peak. MISS CHEVIOTS (1) peaks and the local has been racing well at this track. Led beaten 1.5L the latest at this trip and is in the mix. Stablemate SHOW ME CHAMPAGNE (5) gets in well with the 2kg claim and should be better back to a sprint. Goes into the trifectas/first fours at a price."
+        },
+        "venue_id": "8e5c8bce-3610-4eb0-853a-0d736a799064",
+        "venue_name": "Swan Hill",
+        "venue_state": "VIC",
+        "venue_country": "AUS"
+      },
+      "74d1c9a5-a617-4ae0-ad98-7a71e3fb910d": {
+        "race_id": "74d1c9a5-a617-4ae0-ad98-7a71e3fb910d",
+        "race_name": "Race 8 - 1500",
+        "race_number": 8,
+        "meeting_id": "f5404a7f-80f8-4cd2-9660-0cf52b55fb19",
+        "meeting_name": "Nagoya",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1698731700
+        },
+        "race_form": {
+          "distance": 1500,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "race_comment": "RIBBONED HAPPINESS (2) progressed nicely last time out to finish just a nose from the winner in second over 1500m at this track after being prominent at the turn. Finds a suitable race and can find the winner's circle. PURE BLACK (12) is back from a spell of three months. Closed last prep with a fourth, beaten 2 lengths, over 1600m at Niigata. Looks to have an edge on most of these. ROUGE AURA (6) lined up for new trainer Satoshi Inoue last start and was having her first attempt on a dirt track when finishing fifth at this track over 1500m. Strong each-way chance. SEVEN REACH (8) is a five-start maiden who looks close to breaking the duck after finishing in the placings at her last couple of runs, most recently when 3.5 lengths away in third over 1500m at this track. Kodai Asano stays aboard and although yet to win has been in the money on two occasions. Worth including in calculations.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Nagoya\",\"state\":\"JPN\",\"country\":\"JPN\",\"number\":8,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "RIBBONED HAPPINESS (2) progressed nicely last time out to finish just a nose from the winner in second over 1500m at this track after being prominent at the turn. Finds a suitable race and can find the winner's circle. PURE BLACK (12) is back from a spell of three months. Closed last prep with a fourth, beaten 2 lengths, over 1600m at Niigata. Looks to have an edge on most of these. ROUGE AURA (6) lined up for new trainer Satoshi Inoue last start and was having her first attempt on a dirt track when finishing fifth at this track over 1500m. Strong each-way chance. SEVEN REACH (8) is a five-start maiden who looks close to breaking the duck after finishing in the placings at her last couple of runs, most recently when 3.5 lengths away in third over 1500m at this track. Kodai Asano stays aboard and although yet to win has been in the money on two occasions. Worth including in calculations."
+        },
+        "venue_id": "0218fe84-9144-4c28-81ca-9b8647007d56",
+        "venue_name": "Nagoya",
+        "venue_state": "JPN",
+        "venue_country": "JPN"
+      },
+      "794260ae-f4e7-45da-a656-ac197d317075": {
+        "race_id": "794260ae-f4e7-45da-a656-ac197d317075",
+        "race_name": "Dover & Sons",
+        "race_number": 4,
+        "meeting_id": "0d1b3524-2d0f-4586-9551-2945080bca78",
+        "meeting_name": "Ipswich",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1698728640
+        },
+        "race_form": {
+          "distance": 431,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "SNAP IT (2) quickly away to win over the 288m at this track two runs back then raced on speed again when finishing third at this track last start. Safe beginner who has drawn to advantage. Rates highly and will give a great sight. PANAMA MADAM (7) missed the frame last time at this track but just three runs back flew around 431m at this track in 25.18. Rates a leading chance if runs up to recent winning time. DUKE OF BOB (1) turned in a modest effort most recently when sixth at this track over 431m behind Annihilating (26.39) in a Novice race. Great chance to atone. ERIC'S PICK (4) was out of the frame here most recently but can atone.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "SNAP IT (2) quickly away to win over the 288m at this track two runs back then raced on speed again when finishing third at this track last start. Safe beginner who has drawn to advantage. Rates highly and will give a great sight. PANAMA MADAM (7) missed the frame last time at this track but just three runs back flew around 431m at this track in 25.18. Rates a leading chance if runs up to recent winning time. DUKE OF BOB (1) turned in a modest effort most recently when sixth at this track over 431m behind Annihilating (26.39) in a Novice race. Great chance to atone. ERIC'S PICK (4) was out of the frame here most recently but can atone."
+        },
+        "venue_id": "a70506ee-3dd5-4741-baa1-cac6160badbc",
+        "venue_name": "Ipswich",
+        "venue_state": "QLD",
+        "venue_country": "AUS"
+      },
+      "7dea26b0-4118-4bc4-9285-6b51c99b3936": {
+        "race_id": "7dea26b0-4118-4bc4-9285-6b51c99b3936",
+        "race_name": "1St Half Daily Double/Quiniela/Exacta/Trifecta/Straight Bet Siguenos En",
+        "race_number": 9,
+        "meeting_id": "968da466-023d-4a7e-8758-b502d36a1656",
+        "meeting_name": "Caliente",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1698728700
+        },
+        "race_form": {
+          "distance": 499,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "race_comment": "WW DETONATE (3) is progressing well with another good run, placing by 4.5 lengths (31.70) in a Class D. Likely to feature again. GONZ SOLENO (7) has been in super consistent form recently with two minors on end before missing the frame latest finishing fourth (31.87). Consistent performer from this draw with a win and two minor placings to his credit. A forward showing wouldn't surprise. LAND ON MY FEET (5) showed little early speed at his last couple, the latest finishing seventh (32.65) in a Class D. Likely to be about the money. JUST WIGGLE IT (4) can improve on an unplaced run here last time out.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Caliente\",\"state\":\"BC\",\"country\":\"MEX\",\"number\":9,\"race_name\":\"1St Half Daily Double/Quiniela/Exacta/Trifecta/Straight Bet Siguenos En\",\"time\":\"2023-10-31T05:05:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "WW DETONATE (3) is progressing well with another good run, placing by 4.5 lengths (31.70) in a Class D. Likely to feature again. GONZ SOLENO (7) has been in super consistent form recently with two minors on end before missing the frame latest finishing fourth (31.87). Consistent performer from this draw with a win and two minor placings to his credit. A forward showing wouldn't surprise. LAND ON MY FEET (5) showed little early speed at his last couple, the latest finishing seventh (32.65) in a Class D. Likely to be about the money. JUST WIGGLE IT (4) can improve on an unplaced run here last time out."
+        },
+        "venue_id": "7e900a49-ee05-4feb-9a52-5d3a0db47352",
+        "venue_name": "Caliente",
+        "venue_state": "BC",
+        "venue_country": "MEX"
+      },
+      "7e7dba8e-39ca-41dd-975c-9f7b78792d4b": {
+        "race_id": "7e7dba8e-39ca-41dd-975c-9f7b78792d4b",
+        "race_name": "Webbcon Marine",
+        "race_number": 5,
+        "meeting_id": "c88c61c4-58f4-4463-92e0-bf79f7f3e28e",
+        "meeting_name": "Horsham",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1698729360
+        },
+        "race_form": {
+          "distance": 410,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+            "name": "OCAST",
+            "short_name": "ocast",
+            "icon_uri": "OCAST"
+          },
+          "weather_id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+          "race_comment": "MISTRESS OASIS (2) has a strong record this trip with four wins and four placings from 11 starts. Comes off a (24.17) win last time, scoring by a neck in a Grade 5 over 425m at Bendigo. Rates a leading player. LAROZA BALE (1) was below best at his last start when 6th at this track following a third place finish (25.14) at Traralgon two back. His PB at this course and distance is a solid 23.36. Key runner who gets his chance to atone. RUBY'S DESIRE (4) was strongly fancied last time over 390m at Warrnambool but crowded for room and fell. Rates a leading chance on best. KRAKEN TURBO (7) is a last-start placegetter with solid claims again.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "MISTRESS OASIS (2) has a strong record this trip with four wins and four placings from 11 starts. Comes off a (24.17) win last time, scoring by a neck in a Grade 5 over 425m at Bendigo. Rates a leading player. LAROZA BALE (1) was below best at his last start when 6th at this track following a third place finish (25.14) at Traralgon two back. His PB at this course and distance is a solid 23.36. Key runner who gets his chance to atone. RUBY'S DESIRE (4) was strongly fancied last time over 390m at Warrnambool but crowded for room and fell. Rates a leading chance on best. KRAKEN TURBO (7) is a last-start placegetter with solid claims again."
+        },
+        "venue_id": "c60310d3-b964-448c-9bce-aec587a06671",
+        "venue_name": "Horsham",
+        "venue_state": "VIC",
+        "venue_country": "AUS"
+      },
+      "7fa3b69d-d13d-4479-b3f2-d789f9371ed8": {
+        "race_id": "7fa3b69d-d13d-4479-b3f2-d789f9371ed8",
+        "race_name": "Race 6 - 1400",
+        "race_number": 6,
+        "meeting_id": "0d876f8f-f49e-4553-9937-a499dd532562",
+        "meeting_name": "Sonoda",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1698728700
+        },
+        "race_form": {
+          "distance": 1400,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "race_comment": "IGNITION (2) is back after a break of nine weeks after racing at JRA level last time in. At the last run before the layoff he finished seventh over 1200m at Niigata. Can make a winning return in this suitable grade. DERMA KOMATASUKUI (4) has been solid in three runs since a maiden win. Ran a nice race last time out, finishing fourth and beaten only 0.8 lengths over 1400m at this track. Best figures measure up so can run well. PRO BONO (10) was beaten 3 lengths over 1400m at this track last time after a series of top-four finishes. Another bold showing is expected. GROOVY KAGUYA (3) scored two back then was in the firing line on the turn and finished second last start over 1400m at this track. Can play a role in the finish.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Sonoda\",\"state\":\"JPN\",\"country\":\"JPN\",\"number\":6,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "IGNITION (2) is back after a break of nine weeks after racing at JRA level last time in. At the last run before the layoff he finished seventh over 1200m at Niigata. Can make a winning return in this suitable grade. DERMA KOMATASUKUI (4) has been solid in three runs since a maiden win. Ran a nice race last time out, finishing fourth and beaten only 0.8 lengths over 1400m at this track. Best figures measure up so can run well. PRO BONO (10) was beaten 3 lengths over 1400m at this track last time after a series of top-four finishes. Another bold showing is expected. GROOVY KAGUYA (3) scored two back then was in the firing line on the turn and finished second last start over 1400m at this track. Can play a role in the finish."
+        },
+        "venue_id": "6916e1a3-1754-41cd-91a4-484f336aec64",
+        "venue_name": "Sonoda",
+        "venue_state": "JPN",
+        "venue_country": "JPN"
+      },
+      "8cd931e1-e63d-462f-ad0c-0a4e712bd4f0": {
+        "race_id": "8cd931e1-e63d-462f-ad0c-0a4e712bd4f0",
+        "race_name": "Busbiz.Net.Au (Bm58)",
+        "race_number": 6,
+        "meeting_id": "6897bb47-fcaf-41e8-94ba-026a1a8b1e97",
+        "meeting_name": "Swan Hill",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1698728400
+        },
+        "race_form": {
+          "distance": 2400,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "908a410f-ab10-11e7-85e3-0641c90711b8",
+            "name": "Good3",
+            "short_name": "good3"
+          },
+          "track_condition_id": "908a410f-ab10-11e7-85e3-0641c90711b8",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "BOLD JAKKAL (3) is in good hands and bounced straight back beaten a half-length at Bendigo over this distance. That reads well and the in-form Rawiller takes over from the apprentice. Has a handy gate and should take beating. MAKBEEL (4) raced forward and finished ahead of the above in that contest. Has the rail and a weight and a weight advantage. A danger. BLACK SAMURAI (2) peaks off the Echuca Maiden win over 2100m. Has a soft barrier and keeps the handy 3kg claim. Should see out the extra distance and is a chance to repeat. BRILLIANT VENTURE (1) was spaced here this trip a month ago but covered the others and the 2kg claim brings him into it.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Swan Hill\",\"state\":\"VIC\",\"country\":\"AUS\",\"number\":6,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "BOLD JAKKAL (3) is in good hands and bounced straight back beaten a half-length at Bendigo over this distance. That reads well and the in-form Rawiller takes over from the apprentice. Has a handy gate and should take beating. MAKBEEL (4) raced forward and finished ahead of the above in that contest. Has the rail and a weight and a weight advantage. A danger. BLACK SAMURAI (2) peaks off the Echuca Maiden win over 2100m. Has a soft barrier and keeps the handy 3kg claim. Should see out the extra distance and is a chance to repeat. BRILLIANT VENTURE (1) was spaced here this trip a month ago but covered the others and the 2kg claim brings him into it."
+        },
+        "venue_id": "8e5c8bce-3610-4eb0-853a-0d736a799064",
+        "venue_name": "Swan Hill",
+        "venue_state": "VIC",
+        "venue_country": "AUS"
+      },
+      "98a64aef-df9b-49f3-bbcc-b80dd1e9f1fd": {
+        "race_id": "98a64aef-df9b-49f3-bbcc-b80dd1e9f1fd",
+        "race_name": "Race 6 - 1400",
+        "race_number": 6,
+        "meeting_id": "c95a6aa7-f0e7-45c3-9cff-27638ac0b51b",
+        "meeting_name": "Kanazawa",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1698731400
+        },
+        "race_form": {
+          "distance": 1400,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "race_comment": "GILDED FRAME (5) is yet to break through in 11 runs. Finished fourth at his last appearance over 1500m at this track on October 17. This looks a nice race so expect him to be right in the finish. UBERWINDEN (6) finished second last time over 1400m at this track, beaten one length. Nicely placed to take this out.  I AM KACHIMASHO (1) ran on well for fourth at this track over 1500m when last seen. Finds the right race and should be contesting the finish. WIN PERCEE (8) is usually thereabouts but finds it hard to win, with only one victory from 15 starts. Again tasted defeat last start when fourth over 1400m at this track, beaten 6 lengths but can improve.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Kanazawa\",\"state\":\"JPN\",\"country\":\"JPN\",\"number\":6,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "GILDED FRAME (5) is yet to break through in 11 runs. Finished fourth at his last appearance over 1500m at this track on October 17. This looks a nice race so expect him to be right in the finish. UBERWINDEN (6) finished second last time over 1400m at this track, beaten one length. Nicely placed to take this out.  I AM KACHIMASHO (1) ran on well for fourth at this track over 1500m when last seen. Finds the right race and should be contesting the finish. WIN PERCEE (8) is usually thereabouts but finds it hard to win, with only one victory from 15 starts. Again tasted defeat last start when fourth over 1400m at this track, beaten 6 lengths but can improve."
+        },
+        "venue_id": "0d9871b3-0928-4574-9234-e36c444184ad",
+        "venue_name": "Kanazawa",
+        "venue_state": "JPN",
+        "venue_country": "JPN"
+      },
+      "99098124-e9a9-4d39-b5de-1d27d70d0249": {
+        "race_id": "99098124-e9a9-4d39-b5de-1d27d70d0249",
+        "race_name": "Khans Hospitality Services",
+        "race_number": 4,
+        "meeting_id": "6c8daa85-1ad8-4395-979c-4a71a33b975e",
+        "meeting_name": "Warragul",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1698730020
+        },
+        "race_form": {
+          "distance": 460,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "06ee9afc-025e-11ec-a4cc-4a1fbbf2f065",
+            "name": "SHWRY",
+            "short_name": "shwry",
+            "icon_uri": "SHWRY"
+          },
+          "weather_id": "06ee9afc-025e-11ec-a4cc-4a1fbbf2f065",
+          "race_comment": "DOUBLE DENIM (2) ran below best last time finishing fourth (30.11) over 515m at Sandown in a Mix 6/7. The form from her last run is stacking up nicely. Has the ability to give this a shake. TWO BOO HOOK (6) had been super consistent recording four placings in a row before he was rewarded with a win last time, scoring at this track over 460m (26.10). Has a swift 25.9 PB at this course and distance. Sure to measure up. AUSSIE SUPREME (3) hit the frame here last time and looks a chance again.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "DOUBLE DENIM (2) ran below best last time finishing fourth (30.11) over 515m at Sandown in a Mix 6/7. The form from her last run is stacking up nicely. Has the ability to give this a shake. TWO BOO HOOK (6) had been super consistent recording four placings in a row before he was rewarded with a win last time, scoring at this track over 460m (26.10). Has a swift 25.9 PB at this course and distance. Sure to measure up. AUSSIE SUPREME (3) hit the frame here last time and looks a chance again."
+        },
+        "venue_id": "d0acc1ca-3548-4719-9145-a892a1e6e1c0",
+        "venue_name": "Warragul",
+        "venue_state": "VIC",
+        "venue_country": "AUS"
+      },
+      "9a69a4c6-d33f-4e8a-84ca-0d7054b7d706": {
+        "race_id": "9a69a4c6-d33f-4e8a-84ca-0d7054b7d706",
+        "race_name": "Lawrence Tavern Christmas Cup 26 November (Bm58)",
+        "race_number": 7,
+        "meeting_id": "fda72298-9652-4671-80c0-6868faacb0b5",
+        "meeting_name": "Grafton",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1698731400
+        },
+        "race_form": {
+          "distance": 1175,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "11d7e662-487a-11ea-9d54-4689356d4521",
+            "name": "Good4",
+            "short_name": "good4"
+          },
+          "track_condition_id": "11d7e662-487a-11ea-9d54-4689356d4521",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "BERTINELLI (4) racing in career best form and will take plenty of catching here. Came across from the wide draw when sat on the speed for a solid nose second over 1100m at Murwillumbah on October 10. Expected to go close again. SHARKOSPHERE (5) was a strong maiden winner at start eight when defeating a handy field from the wide gate over 1000m at Coffs Harbour on October 13. Re-unites with Ben Looker and should handle the class rise. WEDDING TENT (6) racing well and can sneak into the minor money after running third over 1250m at Ballina on October 1. INTOXEL (2) took control a long way from home last start when she scored a stylish win at Murwillumbah. Drawn well and in the mix.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Grafton\",\"state\":\"NSW\",\"country\":\"AUS\",\"number\":7,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "BERTINELLI (4) racing in career best form and will take plenty of catching here. Came across from the wide draw when sat on the speed for a solid nose second over 1100m at Murwillumbah on October 10. Expected to go close again. SHARKOSPHERE (5) was a strong maiden winner at start eight when defeating a handy field from the wide gate over 1000m at Coffs Harbour on October 13. Re-unites with Ben Looker and should handle the class rise. WEDDING TENT (6) racing well and can sneak into the minor money after running third over 1250m at Ballina on October 1. INTOXEL (2) took control a long way from home last start when she scored a stylish win at Murwillumbah. Drawn well and in the mix."
+        },
+        "venue_id": "d5f55ab4-eac1-4407-b25b-a4d8a7e04f21",
+        "venue_name": "Grafton",
+        "venue_state": "NSW",
+        "venue_country": "AUS"
+      },
+      "a1d7e066-bde6-45ed-8e3c-7610881b46a0": {
+        "race_id": "a1d7e066-bde6-45ed-8e3c-7610881b46a0",
+        "race_name": "Horsham Doors & Glass",
+        "race_number": 3,
+        "meeting_id": "c88c61c4-58f4-4463-92e0-bf79f7f3e28e",
+        "meeting_name": "Horsham",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1698727260
+        },
+        "race_form": {
+          "distance": 410,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+            "name": "OCAST",
+            "short_name": "ocast",
+            "icon_uri": "OCAST"
+          },
+          "weather_id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+          "race_comment": "WEBLEC WHISTLER (1) jumped from the rails last start and recorded his maiden success by 2.5 lengths at this track over 410m (23.47). Nicely drawn here. Expected to go close again. KRAKEN CHANCE (2) was safely held last time out, finishing seventh at this track over 410m behind Detrimental (24.20) in a Mix 6/7. Was in the money prior to that. Has a slick 23.36 PB at this course and distance. Can figure in the finish. KRAKEN PADDY (5) crossed over from out wide but caught the leaders turning before drawing clear to score (23.84) at this track in a Maiden over 410m. One of the key runners again. XIRA BALE (9) is worth a look despite no experience at this circuit.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Horsham\",\"state\":\"VIC\",\"country\":\"AUS\",\"number\":3,\"race_name\":\"Horsham Doors \\u0026 Glass\",\"time\":\"2023-10-31T04:41:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "WEBLEC WHISTLER (1) jumped from the rails last start and recorded his maiden success by 2.5 lengths at this track over 410m (23.47). Nicely drawn here. Expected to go close again. KRAKEN CHANCE (2) was safely held last time out, finishing seventh at this track over 410m behind Detrimental (24.20) in a Mix 6/7. Was in the money prior to that. Has a slick 23.36 PB at this course and distance. Can figure in the finish. KRAKEN PADDY (5) crossed over from out wide but caught the leaders turning before drawing clear to score (23.84) at this track in a Maiden over 410m. One of the key runners again. XIRA BALE (9) is worth a look despite no experience at this circuit."
+        },
+        "venue_id": "c60310d3-b964-448c-9bce-aec587a06671",
+        "venue_name": "Horsham",
+        "venue_state": "VIC",
+        "venue_country": "AUS"
+      },
+      "a28131ae-f8de-4770-9355-caf95e99a885": {
+        "race_id": "a28131ae-f8de-4770-9355-caf95e99a885",
+        "race_name": "Race 6 - 1600",
+        "race_number": 6,
+        "meeting_id": "13119cdb-bd64-42a3-9d5e-5774c005baa0",
+        "meeting_name": "Morioka",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1698730500
+        },
+        "race_form": {
+          "distance": 1600,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "race_comment": "MR BREEZE (8) returns from a break of three-and-a-half months. Consistent performer last prep whose most recent appearance resulted in a fifth over 1400m at this track. Rates highly and a bold showing is expected. FUTURE AGAIN (1) did a great job to score by 2.5 lengths over today's course and distance last start in a far better run. Meeting a tougher field but on her best form, she is right in contention. M ONE HARUKO (3) is racing well on turf of late, hitting the frame two back at and then improving to score here over 1600m two-and-a-half weeks ago. Continues to impress and is a major player again. A SHIN NUCIMASNU (5) finished fifth two runs back then improved last start but found a couple better over 1600m at this track, beaten 5 lengths. Each-way value.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Morioka\",\"state\":\"JPN\",\"country\":\"JPN\",\"number\":6,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "MR BREEZE (8) returns from a break of three-and-a-half months. Consistent performer last prep whose most recent appearance resulted in a fifth over 1400m at this track. Rates highly and a bold showing is expected. FUTURE AGAIN (1) did a great job to score by 2.5 lengths over today's course and distance last start in a far better run. Meeting a tougher field but on her best form, she is right in contention. M ONE HARUKO (3) is racing well on turf of late, hitting the frame two back at and then improving to score here over 1600m two-and-a-half weeks ago. Continues to impress and is a major player again. A SHIN NUCIMASNU (5) finished fifth two runs back then improved last start but found a couple better over 1600m at this track, beaten 5 lengths. Each-way value."
+        },
+        "venue_id": "29de2693-5113-4f40-a9b8-0bfd794798ac",
+        "venue_name": "Morioka",
+        "venue_state": "JPN",
+        "venue_country": "JPN"
+      },
+      "a34f1281-97e6-4d36-b3c8-0ae6405a5fe1": {
+        "race_id": "a34f1281-97e6-4d36-b3c8-0ae6405a5fe1",
+        "race_name": "Www.Ipswichgreyhounds.Com Maiden F",
+        "race_number": 3,
+        "meeting_id": "0d1b3524-2d0f-4586-9551-2945080bca78",
+        "meeting_name": "Ipswich",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1698727440
+        },
+        "race_form": {
+          "distance": 431,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "REVIVED (5) got off the mark with his maiden victory last time at this track over 431m (25.18). Was a winner at his only start from this draw. Shapes as a top winning chance on latest effort. ARBELA (3) turned in a better run last time to find a minor placing (25.28) at this track behind REVIVED in a Maiden. Recorded one of the quickest times on the card last start despite being beaten. Winning chance. LOONGANA LILLY (7) broke her maiden last start by 2.25 lengths at this track over 431m (25.35). Boxed wide here. Expected to feature again. PETEY TAX (1) comes into calculations after placing most recently.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Ipswich\",\"state\":\"QLD\",\"country\":\"AUS\",\"number\":3,\"race_name\":\"Www.Ipswichgreyhounds.Com Maiden F\",\"time\":\"2023-10-31T04:44:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "REVIVED (5) got off the mark with his maiden victory last time at this track over 431m (25.18). Was a winner at his only start from this draw. Shapes as a top winning chance on latest effort. ARBELA (3) turned in a better run last time to find a minor placing (25.28) at this track behind REVIVED in a Maiden. Recorded one of the quickest times on the card last start despite being beaten. Winning chance. LOONGANA LILLY (7) broke her maiden last start by 2.25 lengths at this track over 431m (25.35). Boxed wide here. Expected to feature again. PETEY TAX (1) comes into calculations after placing most recently."
+        },
+        "venue_id": "a70506ee-3dd5-4741-baa1-cac6160badbc",
+        "venue_name": "Ipswich",
+        "venue_state": "QLD",
+        "venue_country": "AUS"
+      },
+      "a6e337da-ed67-4a38-89a0-8ab18064f956": {
+        "race_id": "a6e337da-ed67-4a38-89a0-8ab18064f956",
+        "race_name": "Race 2 - 1200",
+        "race_number": 2,
+        "meeting_id": "be22dc1c-e9d7-4b17-ab7c-e952630a0aff",
+        "meeting_name": "Tokyo City Keiba",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1698732000
+        },
+        "race_form": {
+          "distance": 1200,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+            "name": "OCAST",
+            "short_name": "ocast",
+            "icon_uri": "OCAST"
+          },
+          "weather_id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+          "race_comment": "CHERRY SINGER (4) progressed nicely last start to finish a close second over 1200m at this track after a poor run of lead-up form. Draws a far better alley this time so anticipating another big run. DANCING RASCAL (3) has been out of the placings in two runs since a break, the latest when fifth, beaten just under 2 lengths, over 1200m at this track after he was in contention on the corner. Cherry-ripe now and will be tough to beat. ENTRATE (11) is back after a break of 11 weeks. Started the last campaign in good style when in the placings over 1200m at this track. Has found the right race and is worth including. CHUPACHI (10) got the prize two runs ago but was not as effective last time out when 12th over 1600m at this track, beaten 12 lengths. In the mix on her best form.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Tokyo City Keiba\",\"state\":\"JPN\",\"country\":\"JPN\",\"number\":2,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "CHERRY SINGER (4) progressed nicely last start to finish a close second over 1200m at this track after a poor run of lead-up form. Draws a far better alley this time so anticipating another big run. DANCING RASCAL (3) has been out of the placings in two runs since a break, the latest when fifth, beaten just under 2 lengths, over 1200m at this track after he was in contention on the corner. Cherry-ripe now and will be tough to beat. ENTRATE (11) is back after a break of 11 weeks. Started the last campaign in good style when in the placings over 1200m at this track. Has found the right race and is worth including. CHUPACHI (10) got the prize two runs ago but was not as effective last time out when 12th over 1600m at this track, beaten 12 lengths. In the mix on her best form."
+        },
+        "venue_id": "d8e494b0-2c26-4b07-9639-fc458a893156",
+        "venue_name": "Tokyo City Keiba",
+        "venue_state": "JPN",
+        "venue_country": "JPN"
+      },
+      "a84e1c64-7618-4e3b-a79c-000c1a263fcb": {
+        "race_id": "a84e1c64-7618-4e3b-a79c-000c1a263fcb",
+        "race_name": "Ladbrokes Communities Trotters Rating Handicap",
+        "race_number": 7,
+        "meeting_id": "1f8106ed-2fd8-4360-a773-1a55d9b1bd33",
+        "meeting_name": "Albion Park",
+        "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+        "advertised_start": {
+          "seconds": 1698730920
+        },
+        "race_form": {
+          "distance": 2138,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "Hard to knock the form of DARCYS FIREBALL (6) who landed a hat trick when successful over this journey last week, getting home by 7 metres. That saw him unbeaten here. Good enough to overcome the 30m handicap. NATTY PAGGER (8) is racing well with four placings in succession, the latest effort a second behind DARCYS FIREBALL. Chance to break through. GETOVERROVER (2) scored here two starts back then was brave in defeat to finish third despite breaking last start. Go well. FENOMENAL (11) is in the mix following a respectable third at his most recent appearance.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Albion Park\",\"state\":\"QLD\",\"country\":\"AUS\",\"number\":7,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "Hard to knock the form of DARCYS FIREBALL (6) who landed a hat trick when successful over this journey last week, getting home by 7 metres. That saw him unbeaten here. Good enough to overcome the 30m handicap. NATTY PAGGER (8) is racing well with four placings in succession, the latest effort a second behind DARCYS FIREBALL. Chance to break through. GETOVERROVER (2) scored here two starts back then was brave in defeat to finish third despite breaking last start. Go well. FENOMENAL (11) is in the mix following a respectable third at his most recent appearance."
+        },
+        "venue_id": "41036055-b448-4471-b64b-518543066fd1",
+        "venue_name": "Albion Park",
+        "venue_state": "QLD",
+        "venue_country": "AUS"
+      },
+      "aa71ec7b-90e8-4396-afec-e360aa7add45": {
+        "race_id": "aa71ec7b-90e8-4396-afec-e360aa7add45",
+        "race_name": "Ladbroke It! Dogs Only Heat 3 Dogs Only H",
+        "race_number": 7,
+        "meeting_id": "09737591-bb0e-48d8-bff2-fa3253773218",
+        "meeting_name": "Bulli",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1698731040
+        },
+        "race_form": {
+          "distance": 400,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "GOOD ODDS DIGGER (7) has been mixing form lately, hitting the frame two back before finishing sixth (30.25) at Richmond in a Grade 5. Good beginner but will need a little luck early crossing from on outside draw. Rates a winning chance on best. TOPPER CREASY (1) was a winner two back when racing on speed but drifted back latest and safely held when 7th and beaten 9 lengths at this track (23.25). Has a swift 22.45 PB at this course and distance. Should be in this for a long way. LOST LINKIN (3) saluted at big odds last time, don't underestimate.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "GOOD ODDS DIGGER (7) has been mixing form lately, hitting the frame two back before finishing sixth (30.25) at Richmond in a Grade 5. Good beginner but will need a little luck early crossing from on outside draw. Rates a winning chance on best. TOPPER CREASY (1) was a winner two back when racing on speed but drifted back latest and safely held when 7th and beaten 9 lengths at this track (23.25). Has a swift 22.45 PB at this course and distance. Should be in this for a long way. LOST LINKIN (3) saluted at big odds last time, don't underestimate."
+        },
+        "venue_id": "90634502-8b99-4933-a80e-0a4bfa959ff7",
+        "venue_name": "Bulli",
+        "venue_state": "NSW",
+        "venue_country": "AUS"
+      },
+      "abaf0e90-4a41-4739-85e2-86e79654fc08": {
+        "race_id": "abaf0e90-4a41-4739-85e2-86e79654fc08",
+        "race_name": "Kilcoy Exchange Hotel Hcp (55)",
+        "race_number": 4,
+        "meeting_id": "406d7900-6a3e-4b9f-82b2-aff32a9adda7",
+        "meeting_name": "Kilcoy",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1698730500
+        },
+        "race_form": {
+          "distance": 1900,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "11d7e662-487a-11ea-9d54-4689356d4521",
+            "name": "Good4",
+            "short_name": "good4"
+          },
+          "track_condition_id": "11d7e662-487a-11ea-9d54-4689356d4521",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "ULTIMATE POWER (5) progressed nicely last time out to finish just 1.3 lengths from the winner in third over 1625m at Toowoomba. Has a decent record at this longer journey. Hard to beat in this suitable race. RUDIMENTARY (4) put two placings together before finishing 3 lengths away over 2000m at Warwick last start. Placed to advantage so expect a big run. PROSPETTIVA (6) was down the track last time but had placed at his previous two so can atone in a suitable assignment. NAUGHTY HARRY (1) kept finding the line to place last time so the longer trio should suit.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Kilcoy\",\"state\":\"QLD\",\"country\":\"AUS\",\"number\":4,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "ULTIMATE POWER (5) progressed nicely last time out to finish just 1.3 lengths from the winner in third over 1625m at Toowoomba. Has a decent record at this longer journey. Hard to beat in this suitable race. RUDIMENTARY (4) put two placings together before finishing 3 lengths away over 2000m at Warwick last start. Placed to advantage so expect a big run. PROSPETTIVA (6) was down the track last time but had placed at his previous two so can atone in a suitable assignment. NAUGHTY HARRY (1) kept finding the line to place last time so the longer trio should suit."
+        },
+        "venue_id": "fd3a7fd8-a017-460c-a649-2b05c9426c61",
+        "venue_name": "Kilcoy",
+        "venue_state": "QLD",
+        "venue_country": "AUS"
+      },
+      "b96cc221-f770-47b4-ab85-91b83898acea": {
+        "race_id": "b96cc221-f770-47b4-ab85-91b83898acea",
+        "race_name": "The Bottle O Swan Hill (Bm58)",
+        "race_number": 7,
+        "meeting_id": "6897bb47-fcaf-41e8-94ba-026a1a8b1e97",
+        "meeting_name": "Swan Hill",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1698730200
+        },
+        "race_form": {
+          "distance": 1600,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "908a410f-ab10-11e7-85e3-0641c90711b8",
+            "name": "Good3",
+            "short_name": "good3"
+          },
+          "track_condition_id": "908a410f-ab10-11e7-85e3-0641c90711b8",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "AWASH (3) was narrowly beaten twice on the turf before delivering the easy Maiden win on the Pakenham synthetic as favourite. Up to the mile should be no bother and he can stalk the speed from the handy gate. In the premier barn and can take the next step. SPORTS IDOL (4) brings a win and near-miss from here both at this level. Has a 3kg claimer aboard and has the opportunity for a soft run from the rails gate. Has the tongue tie applied the first time and is a chance to bounce. Stablemate BANNERTON (2) would be a hope on the near-miss here two-back behind GOLWEN. He peaks and has a low barrier and 2kg claim. MURRALANE (8) is holding a decent level of form and can't be ruled out.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Swan Hill\",\"state\":\"VIC\",\"country\":\"AUS\",\"number\":7,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "AWASH (3) was narrowly beaten twice on the turf before delivering the easy Maiden win on the Pakenham synthetic as favourite. Up to the mile should be no bother and he can stalk the speed from the handy gate. In the premier barn and can take the next step. SPORTS IDOL (4) brings a win and near-miss from here both at this level. Has a 3kg claimer aboard and has the opportunity for a soft run from the rails gate. Has the tongue tie applied the first time and is a chance to bounce. Stablemate BANNERTON (2) would be a hope on the near-miss here two-back behind GOLWEN. He peaks and has a low barrier and 2kg claim. MURRALANE (8) is holding a decent level of form and can't be ruled out."
+        },
+        "venue_id": "8e5c8bce-3610-4eb0-853a-0d736a799064",
+        "venue_name": "Swan Hill",
+        "venue_state": "VIC",
+        "venue_country": "AUS"
+      },
+      "c75162a5-b9b8-4be8-bb73-b190e556589a": {
+        "race_id": "c75162a5-b9b8-4be8-bb73-b190e556589a",
+        "race_name": "Ladbrokes Dogs Only Heat 1 Dogs Only H",
+        "race_number": 5,
+        "meeting_id": "09737591-bb0e-48d8-bff2-fa3253773218",
+        "meeting_name": "Bulli",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1698728940
+        },
+        "race_form": {
+          "distance": 400,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
+            "name": "Fine",
+            "short_name": "fine",
+            "icon_uri": "Fine"
+          },
+          "weather_id": "01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
+          "race_comment": "DARK NECESSITIES (6) has a strong overall record having four wins and four places from 10 starts including a last start success (22.93) over 401m at Richmond. Well placed here and can go close with a clear run. BABA YAGA WAVE (8) started big odds last time but hit the ground running with a strong early split, giving a sight but fading only late to finish second (22.50) at this track over 400m. Will give a great sight again. BIG FRANK BANNER (4) could not have been more impressive last start in his handy 17.73 win at Richmond Straight in a Grade 4/5 over 324m. This tougher but looks a leading chance again. DON'T BE SILLY (7) has been freshened for this and can hit the frame.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "DARK NECESSITIES (6) has a strong overall record having four wins and four places from 10 starts including a last start success (22.93) over 401m at Richmond. Well placed here and can go close with a clear run. BABA YAGA WAVE (8) started big odds last time but hit the ground running with a strong early split, giving a sight but fading only late to finish second (22.50) at this track over 400m. Will give a great sight again. BIG FRANK BANNER (4) could not have been more impressive last start in his handy 17.73 win at Richmond Straight in a Grade 4/5 over 324m. This tougher but looks a leading chance again. DON'T BE SILLY (7) has been freshened for this and can hit the frame."
+        },
+        "venue_id": "90634502-8b99-4933-a80e-0a4bfa959ff7",
+        "venue_name": "Bulli",
+        "venue_state": "NSW",
+        "venue_country": "AUS"
+      },
+      "c779be52-9966-46a5-a497-3d1949f86383": {
+        "race_id": "c779be52-9966-46a5-a497-3d1949f86383",
+        "race_name": "Race 5 - 1200",
+        "race_number": 5,
+        "meeting_id": "13119cdb-bd64-42a3-9d5e-5774c005baa0",
+        "meeting_name": "Morioka",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1698728400
+        },
+        "race_form": {
+          "distance": 1200,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "race_comment": "KURINO Q CHAN (10) was safely held when second last time out over 1000m at this track, beaten 3 lengths after being in contention on the turn. That followed a win at this track at the previous outing. She is back up to 1200 metres and can take this out. ABILE (2) went forward last start and proved too strong, getting home by 1.3 lengths over 1600m at this track. Drawn to stalk the leaders and can make it four wins on the bounce in this. FUMITATSU TWINKLE (6) made it four wins in succession last time out when she scored by 3 lengths over 1000m at this track. Nicely placed to give this a mighty shake. MAKOTO DAITOREN (11) is putting together some solid results. Finished second at this track two starts back then scored by 6 lengths as public elect last time out over 1000m at this track. Hard to beat in what is a very nice field.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Morioka\",\"state\":\"JPN\",\"country\":\"JPN\",\"number\":5,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "KURINO Q CHAN (10) was safely held when second last time out over 1000m at this track, beaten 3 lengths after being in contention on the turn. That followed a win at this track at the previous outing. She is back up to 1200 metres and can take this out. ABILE (2) went forward last start and proved too strong, getting home by 1.3 lengths over 1600m at this track. Drawn to stalk the leaders and can make it four wins on the bounce in this. FUMITATSU TWINKLE (6) made it four wins in succession last time out when she scored by 3 lengths over 1000m at this track. Nicely placed to give this a mighty shake. MAKOTO DAITOREN (11) is putting together some solid results. Finished second at this track two starts back then scored by 6 lengths as public elect last time out over 1000m at this track. Hard to beat in what is a very nice field."
+        },
+        "venue_id": "29de2693-5113-4f40-a9b8-0bfd794798ac",
+        "venue_name": "Morioka",
+        "venue_state": "JPN",
+        "venue_country": "JPN"
+      },
+      "d1cc3542-ce38-4b25-ae32-3e3854d9683b": {
+        "race_id": "d1cc3542-ce38-4b25-ae32-3e3854d9683b",
+        "race_name": "Ladbrokes Blended Bets Dogs Only Heat 2 Dogs Only ",
+        "race_number": 6,
+        "meeting_id": "09737591-bb0e-48d8-bff2-fa3253773218",
+        "meeting_name": "Bulli",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1698729840
+        },
+        "race_form": {
+          "distance": 400,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
+            "name": "Fine",
+            "short_name": "fine",
+            "icon_uri": "Fine"
+          },
+          "weather_id": "01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
+          "race_comment": "GOOD ODDS COBBER (1) comes here after a decent win at Wentworth Park over 520m in 29.93. Should be in this for a long way. LEONIDAS (3) placed two runs ago then again in the money last time when second (20.06) at Goulburn in a Grade 5. Speedy beginner who should be in the action early from an inside box. Expected to do much better this time. LUAI BANNER (8) has a strong record here including three wins from four starts. Was out of placings last time (22.86) at this track in a Grade 5, finishing sixth and beaten 2 lengths. Looks well placed here and among the chances. STAGGER'S STAR (2) is one to consider despite coming off a brief layoff.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "GOOD ODDS COBBER (1) comes here after a decent win at Wentworth Park over 520m in 29.93. Should be in this for a long way. LEONIDAS (3) placed two runs ago then again in the money last time when second (20.06) at Goulburn in a Grade 5. Speedy beginner who should be in the action early from an inside box. Expected to do much better this time. LUAI BANNER (8) has a strong record here including three wins from four starts. Was out of placings last time (22.86) at this track in a Grade 5, finishing sixth and beaten 2 lengths. Looks well placed here and among the chances. STAGGER'S STAR (2) is one to consider despite coming off a brief layoff."
+        },
+        "venue_id": "90634502-8b99-4933-a80e-0a4bfa959ff7",
+        "venue_name": "Bulli",
+        "venue_state": "NSW",
+        "venue_country": "AUS"
+      },
+      "d258d719-9141-4a23-b01f-fe68c5ce81df": {
+        "race_id": "d258d719-9141-4a23-b01f-fe68c5ce81df",
+        "race_name": "Race 7 - 1500",
+        "race_number": 7,
+        "meeting_id": "f5404a7f-80f8-4cd2-9660-0cf52b55fb19",
+        "meeting_name": "Nagoya",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1698729900
+        },
+        "race_form": {
+          "distance": 1500,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "race_comment": "OSTFALEN (2) missed the placings two runs back then did well last start but found one better over 1500m at this track, beaten only a neck after being in the firing line on the turn. Likely improver with strong prospects. JIFA (11) finished out of the money two starts back then she was always well out of her ground and when finishing 11th in a 1700m contest at Monbetsu five weeks ago. Steps up a level but she is up to the task. FAIRLY HIGH (12) finished 13th two runs back then improved last start but found one better over 1500m at this track, beaten 2 lengths after being prominent at the corner. Has her share of talent. Hard to beat in this suitable race. LITTLE POD (9) strode forward early from his wide draw over 1000m at Monbetsu last time, leading for much of the way before fading to finish fourth. Has ability and a bold showing is expected.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Nagoya\",\"state\":\"JPN\",\"country\":\"JPN\",\"number\":7,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "OSTFALEN (2) missed the placings two runs back then did well last start but found one better over 1500m at this track, beaten only a neck after being in the firing line on the turn. Likely improver with strong prospects. JIFA (11) finished out of the money two starts back then she was always well out of her ground and when finishing 11th in a 1700m contest at Monbetsu five weeks ago. Steps up a level but she is up to the task. FAIRLY HIGH (12) finished 13th two runs back then improved last start but found one better over 1500m at this track, beaten 2 lengths after being prominent at the corner. Has her share of talent. Hard to beat in this suitable race. LITTLE POD (9) strode forward early from his wide draw over 1000m at Monbetsu last time, leading for much of the way before fading to finish fourth. Has ability and a bold showing is expected."
+        },
+        "venue_id": "0218fe84-9144-4c28-81ca-9b8647007d56",
+        "venue_name": "Nagoya",
+        "venue_state": "JPN",
+        "venue_country": "JPN"
+      },
+      "d4b3ec53-4f5a-494e-9f87-9f828051dbdf": {
+        "race_id": "d4b3ec53-4f5a-494e-9f87-9f828051dbdf",
+        "race_name": "Race 1 - 1600",
+        "race_number": 1,
+        "meeting_id": "be22dc1c-e9d7-4b17-ab7c-e952630a0aff",
+        "meeting_name": "Tokyo City Keiba",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1698730200
+        },
+        "race_form": {
+          "distance": 1600,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+            "name": "OCAST",
+            "short_name": "ocast",
+            "icon_uri": "OCAST"
+          },
+          "weather_id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+          "race_comment": "VALLE PROFONDA (7) resumed from a 13-month spell for a new stable last start when he found one better over 1600m at this track, his first dirt track experience. Will come on from that last run and can take this out. GOLDEN OJA (3) finished in the top three at the first three runs this prep before a disappointing ninth over 1600m at this track 28 days ago. Forgive that latest effort. In the mix. LE GRAND BLEU (10) finished third at this track two runs back but didn't measure up last time over 1600m here, finishing 6 lengths back in tenth. Likely to bounce back. TRANSACTION (2) didn't make an impact at his last run before going for a spell on June 28, finishing tenth and beaten 10 lengths over 1400m at this track. Comes to hand quickly and has drawn well so looks a strong top-three prospect.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Tokyo City Keiba\",\"state\":\"JPN\",\"country\":\"JPN\",\"number\":1,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "VALLE PROFONDA (7) resumed from a 13-month spell for a new stable last start when he found one better over 1600m at this track, his first dirt track experience. Will come on from that last run and can take this out. GOLDEN OJA (3) finished in the top three at the first three runs this prep before a disappointing ninth over 1600m at this track 28 days ago. Forgive that latest effort. In the mix. LE GRAND BLEU (10) finished third at this track two runs back but didn't measure up last time over 1600m here, finishing 6 lengths back in tenth. Likely to bounce back. TRANSACTION (2) didn't make an impact at his last run before going for a spell on June 28, finishing tenth and beaten 10 lengths over 1400m at this track. Comes to hand quickly and has drawn well so looks a strong top-three prospect."
+        },
+        "venue_id": "d8e494b0-2c26-4b07-9639-fc458a893156",
+        "venue_name": "Tokyo City Keiba",
+        "venue_state": "JPN",
+        "venue_country": "JPN"
+      },
+      "e4258a00-9205-4fc7-b0e3-eeb2a0c8081a": {
+        "race_id": "e4258a00-9205-4fc7-b0e3-eeb2a0c8081a",
+        "race_name": "Race 5 - 1400",
+        "race_number": 5,
+        "meeting_id": "c95a6aa7-f0e7-45c3-9cff-27638ac0b51b",
+        "meeting_name": "Kanazawa",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1698729300
+        },
+        "race_form": {
+          "distance": 1400,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "race_comment": "APEGO (6) made progress last time out, finishing 2.5 lengths from the winner in second at the end of 1400m at this track. Finds a suitable race and can build on that solid recent effort. CRYSTAL GOLD (2) was out of the money when resuming from a spell last start over 1400m at this track, beaten 19 lengths. Fitter so anticipating a better run this time. YANCHA PRE HIME (9) hasn't featured at her last two runs, the latest when 18 lengths away in tenth at Nakayama Dirt. Forgive the last couple in tougher assignments. Can bounce back. NEO BOGEN (7) was beaten 36 lengths into seventh in a 1500m contest at this track last time out. Well placed and can figure in the finish this time.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Kanazawa\",\"state\":\"JPN\",\"country\":\"JPN\",\"number\":5,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "APEGO (6) made progress last time out, finishing 2.5 lengths from the winner in second at the end of 1400m at this track. Finds a suitable race and can build on that solid recent effort. CRYSTAL GOLD (2) was out of the money when resuming from a spell last start over 1400m at this track, beaten 19 lengths. Fitter so anticipating a better run this time. YANCHA PRE HIME (9) hasn't featured at her last two runs, the latest when 18 lengths away in tenth at Nakayama Dirt. Forgive the last couple in tougher assignments. Can bounce back. NEO BOGEN (7) was beaten 36 lengths into seventh in a 1500m contest at this track last time out. Well placed and can figure in the finish this time."
+        },
+        "venue_id": "0d9871b3-0928-4574-9234-e36c444184ad",
+        "venue_name": "Kanazawa",
+        "venue_state": "JPN",
+        "venue_country": "JPN"
+      },
+      "ee569ceb-d6fc-45d3-950d-10df24b42f63": {
+        "race_id": "ee569ceb-d6fc-45d3-950d-10df24b42f63",
+        "race_name": "Oaks Super Box For Hire",
+        "race_number": 5,
+        "meeting_id": "6c8daa85-1ad8-4395-979c-4a71a33b975e",
+        "meeting_name": "Warragul",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1698731220
+        },
+        "race_form": {
+          "distance": 400,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "06ee9afc-025e-11ec-a4cc-4a1fbbf2f065",
+            "name": "SHWRY",
+            "short_name": "shwry",
+            "icon_uri": "SHWRY"
+          },
+          "weather_id": "06ee9afc-025e-11ec-a4cc-4a1fbbf2f065",
+          "race_comment": "PROJECTOR (8) was safely held last time out, finishing seventh at Ballarat over 450m behind Maxed Out (26.42) in a Grade 4/5. Was in the money the start prior. Won at his only start from this draw. Key runner on his best form. RAICHU (7) had been in great form but missed the frame latest when seventh (23.09) in a Free For All at this track. Normally a good beginner but was shuffled back from the inside last time. Has ability and can atone. MRS. NELSON (1) is progressing well and looks close to another win after hitting the frame last run (23.00) at this track. Deserves a win and gets her chance. ALICE MORGAN (2) is a last-start placegetter at this track and distance - solid claims again.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "PROJECTOR (8) was safely held last time out, finishing seventh at Ballarat over 450m behind Maxed Out (26.42) in a Grade 4/5. Was in the money the start prior. Won at his only start from this draw. Key runner on his best form. RAICHU (7) had been in great form but missed the frame latest when seventh (23.09) in a Free For All at this track. Normally a good beginner but was shuffled back from the inside last time. Has ability and can atone. MRS. NELSON (1) is progressing well and looks close to another win after hitting the frame last run (23.00) at this track. Deserves a win and gets her chance. ALICE MORGAN (2) is a last-start placegetter at this track and distance - solid claims again."
+        },
+        "venue_id": "d0acc1ca-3548-4719-9145-a892a1e6e1c0",
+        "venue_name": "Warragul",
+        "venue_state": "VIC",
+        "venue_country": "AUS"
+      },
+      "f60438bd-a1f6-4696-9028-d1db2aec7ec4": {
+        "race_id": "f60438bd-a1f6-4696-9028-d1db2aec7ec4",
+        "race_name": "Lawrence Cup Calcutta 25 November Hcp (C3)",
+        "race_number": 6,
+        "meeting_id": "fda72298-9652-4671-80c0-6868faacb0b5",
+        "meeting_name": "Grafton",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1698729300
+        },
+        "race_form": {
+          "distance": 1000,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "11d7e662-487a-11ea-9d54-4689356d4521",
+            "name": "Good4",
+            "short_name": "good4"
+          },
+          "track_condition_id": "11d7e662-487a-11ea-9d54-4689356d4521",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "BUCK PHAROAH (1) is a classy American Pharoah gelding resuming since February 12. Has excellent first up figures and not asked to do much when sixth in a 805m trial at Coffs Harbour on September 4. Carries the big weights well and gets every chance from the inside gate. KING'S GOLD (3) resumes today after finishing fourth over 1050m at Gold Coast Poly on May 13. Has good figures this track and trip and latest trial win over 800m was full of merit. Has to be respected. DIS IS HEAVEN (5) fitter after two runs back and much better performance when stormed home late to run fifth over 1000m at Taree. Both wins have come over this distance and can feature in the finish. PANUARA BOY (2) has been about the mark in small fields of late. Last start finished third at Lismore over 1110m. Backs up quickly and should go well.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Grafton\",\"state\":\"NSW\",\"country\":\"AUS\",\"number\":6,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "BUCK PHAROAH (1) is a classy American Pharoah gelding resuming since February 12. Has excellent first up figures and not asked to do much when sixth in a 805m trial at Coffs Harbour on September 4. Carries the big weights well and gets every chance from the inside gate. KING'S GOLD (3) resumes today after finishing fourth over 1050m at Gold Coast Poly on May 13. Has good figures this track and trip and latest trial win over 800m was full of merit. Has to be respected. DIS IS HEAVEN (5) fitter after two runs back and much better performance when stormed home late to run fifth over 1000m at Taree. Both wins have come over this distance and can feature in the finish. PANUARA BOY (2) has been about the mark in small fields of late. Last start finished third at Lismore over 1110m. Backs up quickly and should go well."
+        },
+        "venue_id": "d5f55ab4-eac1-4407-b25b-a4d8a7e04f21",
+        "venue_name": "Grafton",
+        "venue_state": "NSW",
+        "venue_country": "AUS"
+      },
+      "f91140b1-1677-4bf7-aa0b-cf92b75f3896": {
+        "race_id": "f91140b1-1677-4bf7-aa0b-cf92b75f3896",
+        "race_name": "Aqwa Constructions Peak Of The Creek Heat 4",
+        "race_number": 6,
+        "meeting_id": "1f8106ed-2fd8-4360-a773-1a55d9b1bd33",
+        "meeting_name": "Albion Park",
+        "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+        "advertised_start": {
+          "seconds": 1698728820
+        },
+        "race_form": {
+          "distance": 1660,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "ILLAVABUBBLES (4) has been racing well since arriving from NZ, winning her last two outings here. Came from one spot wider when she toughed it out last time. Strong claims again. AARDIES FLASH (7) has been in good form. Runner up here two back and finished fourth at his latest appearance at Menangle. Freshened since but has won a trial. Has to contend with a wide draw but his circuit and distance statistics are strong. MOSSDALE TERRY (3) is a newcomer to the Graham yard from NZ. Readied with two nice trials and should measure up from the low draw. ART JESTER (10) has won a trial since last seen. Player.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Albion Park\",\"state\":\"QLD\",\"country\":\"AUS\",\"number\":6,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "ILLAVABUBBLES (4) has been racing well since arriving from NZ, winning her last two outings here. Came from one spot wider when she toughed it out last time. Strong claims again. AARDIES FLASH (7) has been in good form. Runner up here two back and finished fourth at his latest appearance at Menangle. Freshened since but has won a trial. Has to contend with a wide draw but his circuit and distance statistics are strong. MOSSDALE TERRY (3) is a newcomer to the Graham yard from NZ. Readied with two nice trials and should measure up from the low draw. ART JESTER (10) has won a trial since last seen. Player."
+        },
+        "venue_id": "41036055-b448-4471-b64b-518543066fd1",
+        "venue_name": "Albion Park",
+        "venue_state": "QLD",
+        "venue_country": "AUS"
+      },
+      "fdb5ad02-0623-4abc-bf34-145ccd8e7e6f": {
+        "race_id": "fdb5ad02-0623-4abc-bf34-145ccd8e7e6f",
+        "race_name": "Quiniela/Exacta/Trifecta/Straight Bet/Pk3 Nfl Games In Caliente Sports Book",
+        "race_number": 8,
+        "meeting_id": "968da466-023d-4a7e-8758-b502d36a1656",
+        "meeting_name": "Caliente",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1698727680
+        },
+        "race_form": {
+          "distance": 499,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "race_comment": "BGR FUELTHEFIRE (1) scored two back then was always well back and could manage only a 9 length 7th (32.15). Key runner on his best form. BETWEEN THE LINZ (4) finished fourth last time (31.57) after winning at his previous two outings. Better than last start and can bounce back. WW RAINEY (7) has been beaten for early speed lately, last time finishing sixth (31.50) in a Class B. Cannot be left out. WW CONCHITA (3) was out of the money at this circuit last start but can turn the form around.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Caliente\",\"state\":\"BC\",\"country\":\"MEX\",\"number\":8,\"race_name\":\"Quiniela/Exacta/Trifecta/Straight Bet/Pk3 Nfl Games In Caliente Sports Book\",\"time\":\"2023-10-31T04:48:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "BGR FUELTHEFIRE (1) scored two back then was always well back and could manage only a 9 length 7th (32.15). Key runner on his best form. BETWEEN THE LINZ (4) finished fourth last time (31.57) after winning at his previous two outings. Better than last start and can bounce back. WW RAINEY (7) has been beaten for early speed lately, last time finishing sixth (31.50) in a Class B. Cannot be left out. WW CONCHITA (3) was out of the money at this circuit last start but can turn the form around."
+        },
+        "venue_id": "7e900a49-ee05-4feb-9a52-5d3a0db47352",
+        "venue_name": "Caliente",
+        "venue_state": "BC",
+        "venue_country": "MEX"
+      },
+      "fe3df00b-9225-4613-96cd-1febdc9bf1d6": {
+        "race_id": "fe3df00b-9225-4613-96cd-1febdc9bf1d6",
+        "race_name": "Race 7 - 1400",
+        "race_number": 7,
+        "meeting_id": "0d876f8f-f49e-4553-9937-a499dd532562",
+        "meeting_name": "Sonoda",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1698730800
+        },
+        "race_form": {
+          "distance": 1400,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "race_comment": "SILVER BLISS (4) scored at her most recent appearance, getting home by a head over 1400m at this track as favourite. That continued the very strong form this campaign, with two wins and a second from three runs. Can measure up again. LEVER LE RIDEAU (9) resumes from a spell of 11 weeks. Raced at JRA level last time in including a placing two back at Sapporo. Nicely placed and can get off the mark. TANOMUDE HOMMA (8) was an impressive maiden winner last time out, scoring by 4 lengths over 1400m at this track. Tricky draw to overcome but he is definitely worth including. BAKUSHIN QUEEN (2) comes here fresh from an all-the-way win by a neck over today's journey at this track. In the mix.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Sonoda\",\"state\":\"JPN\",\"country\":\"JPN\",\"number\":7,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "SILVER BLISS (4) scored at her most recent appearance, getting home by a head over 1400m at this track as favourite. That continued the very strong form this campaign, with two wins and a second from three runs. Can measure up again. LEVER LE RIDEAU (9) resumes from a spell of 11 weeks. Raced at JRA level last time in including a placing two back at Sapporo. Nicely placed and can get off the mark. TANOMUDE HOMMA (8) was an impressive maiden winner last time out, scoring by 4 lengths over 1400m at this track. Tricky draw to overcome but he is definitely worth including. BAKUSHIN QUEEN (2) comes here fresh from an all-the-way win by a neck over today's journey at this track. In the mix."
+        },
+        "venue_id": "6916e1a3-1754-41cd-91a4-484f336aec64",
+        "venue_name": "Sonoda",
+        "venue_state": "JPN",
+        "venue_country": "JPN"
+      }
+    }
+  },
+  "message": "Next 100 races from each category"
+}

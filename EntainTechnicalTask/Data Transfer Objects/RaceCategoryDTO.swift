@@ -29,6 +29,22 @@ enum RaceCategoryDTO: Decodable, Identifiable, CaseIterable {
     }
   }
 
+  var title: String {
+    switch self {
+    case .greyhound: return "Greyhound"
+    case .harness: return "Harness"
+    case .horse: return "Horse"
+    }
+  }
+
+  var systemImage: String {
+    switch self {
+    case .greyhound: return "dog"
+    case .harness: return "tortoise"
+    case .horse: return "hare"
+    }
+  }
+
   init(from decoder: Decoder) throws {
     let singleValueContainer = try decoder.singleValueContainer()
     let id = try singleValueContainer.decode(ID.self)

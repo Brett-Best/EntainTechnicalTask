@@ -9,3 +9,6 @@
 import Foundation
 
 let kIsRunningUnitTests = nil != NSClassFromString("XCTestCase")
+let kNedsAPIBaseURL = URL(string: "https://api.neds.com.au/rest/v1/").unsafelyUnwrapped
+let kMaximumNumberOfRaceSummariesToDisplay = 5
+let kMaximumIntervalToDisplayStartedRaces: TimeInterval = 60
