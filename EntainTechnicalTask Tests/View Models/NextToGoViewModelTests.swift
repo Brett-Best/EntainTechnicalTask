@@ -189,7 +189,7 @@ final class NextToGoViewModelTests: XCTestCase {
 
     await fulfillment(of: [loadingErrorExpectation], timeout: 2)
 
-    guard case .failure(let error, let raceSummaries) = viewModel.state else {
+    guard case .failure = viewModel.state else {
       XCTFail("Expected viewmodel to be in failure state")
       return
     }
